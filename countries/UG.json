@@ -1,0 +1,15 @@
+{
+  "alpha2": "UG",
+  "alpha3": "UGA",
+  "numeric": "800",
+  "name": "Uganda",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "Oh Uganda, Land of Beauty",
+  "founding_date": "1962-01-01",
+  "currency_name": "Ugandan shilling",
+  "currency_symbol": "USh",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

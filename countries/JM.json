@@ -1,0 +1,15 @@
+{
+  "alpha2": "JM",
+  "alpha3": "JAM",
+  "numeric": "388",
+  "name": "Jamaica",
+  "region": "americas",
+  "continent": "North America",
+  "national_anthem_title": "Jamaica, Land We Love",
+  "founding_date": "1962-01-01",
+  "currency_name": "Jamaican dollar",
+  "currency_symbol": "J$",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

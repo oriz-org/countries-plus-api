@@ -1,0 +1,16 @@
+{
+  "alpha2": "PY",
+  "alpha3": "PRY",
+  "numeric": "600",
+  "name": "Paraguay",
+  "region": "americas",
+  "continent": "South America",
+  "national_anthem_title": "national anthem of Paraguay",
+  "founding_date": "1811-01-01",
+  "currency_name": "Paraguayan guaraní",
+  "motto_translation": "Peace and Justice",
+  "currency_symbol": "₲",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

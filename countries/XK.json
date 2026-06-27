@@ -1,0 +1,19 @@
+{
+  "alpha2": "XK",
+  "alpha3": "XKS",
+  "numeric": null,
+  "name": "Kosovo",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Europe",
+  "founding_date": "2008-02-17",
+  "currency_name": "euro",
+  "former_names": [
+    "Yugoslavia (until 1999)",
+    "UN-administered (1999-2008)"
+  ],
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

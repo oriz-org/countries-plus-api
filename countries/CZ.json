@@ -1,0 +1,20 @@
+{
+  "alpha2": "CZ",
+  "alpha3": "CZE",
+  "numeric": "203",
+  "name": "Czech Republic",
+  "region": "europe",
+  "continent": "Europe",
+  "motto": "Truth prevails",
+  "national_anthem_title": "Kde domov můj",
+  "founding_date": "1993-01-01",
+  "currency_name": "Czech koruna",
+  "former_names": [
+    "Czechoslovakia (1918-1992)",
+    "Bohemia and Moravia"
+  ],
+  "currency_symbol": "Kč",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

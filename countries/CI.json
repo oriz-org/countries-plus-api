@@ -1,0 +1,14 @@
+{
+  "alpha2": "CI",
+  "alpha3": "CIV",
+  "numeric": "384",
+  "name": "Ivory Coast",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "L'Abidjanaise",
+  "founding_date": "1960-01-01",
+  "currency_name": "West African CFA franc",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "alpha2": "EG",
+  "alpha3": "EGY",
+  "numeric": "818",
+  "name": "Egypt",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "Bilady, Bilady, Bilady",
+  "founding_date": "1922-02-28",
+  "currency_name": "Egyptian pound",
+  "former_names": [
+    "United Arab Republic (1958-1971)"
+  ],
+  "currency_symbol": "E£",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

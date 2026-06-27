@@ -1,0 +1,16 @@
+{
+  "alpha2": "GT",
+  "alpha3": "GTM",
+  "numeric": "320",
+  "name": "Guatemala",
+  "region": "americas",
+  "continent": "North America",
+  "national_anthem_title": "National Anthem of Guatemala",
+  "founding_date": "1821-01-01",
+  "currency_name": "quetzal",
+  "motto_translation": "Grow free and fertile",
+  "currency_symbol": "Q",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

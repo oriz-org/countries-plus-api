@@ -1,0 +1,19 @@
+{
+  "alpha2": "GE",
+  "alpha3": "GEO",
+  "numeric": "268",
+  "name": "Georgia",
+  "region": "europe",
+  "continent": "Europe",
+  "motto": "Dzala ertobashia",
+  "national_anthem_title": "Tavisupleba",
+  "founding_date": "1991-12-25",
+  "currency_name": "Georgian lari",
+  "motto_translation": "Strength is in Unity",
+  "former_names": [
+    "Soviet Union (1921-1991)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

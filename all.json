@@ -1,0 +1,3282 @@
+[
+  {
+    "alpha2": "AD",
+    "alpha3": "AND",
+    "numeric": "020",
+    "name": "Andorra",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "El gran Carlemany",
+    "founding_date": "1993-01-01",
+    "currency_name": "euro",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "AE",
+    "alpha3": "ARE",
+    "numeric": "784",
+    "name": "United Arab Emirates",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Ishy Bilady",
+    "founding_date": "1971-01-01",
+    "currency_name": "United Arab Emirates dirham",
+    "former_names": [
+      "Trucial States (until 1971)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "AF",
+    "alpha3": "AFG",
+    "numeric": "004",
+    "name": "Afghanistan",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "This Is the Home of the Brave",
+    "founding_date": "2021-01-01",
+    "currency_name": "afghani",
+    "motto_translation": "There is no god but God; Muhammad is the messenger of God",
+    "former_names": [
+      "Islamic Republic of Afghanistan (2004-2021)",
+      "Kingdom of Afghanistan (until 1973)"
+    ],
+    "currency_symbol": "؋",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "AG",
+    "alpha3": "ATG",
+    "numeric": "028",
+    "name": "Antigua and Barbuda",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "God Save the King",
+    "founding_date": "1981-11-01",
+    "currency_name": "Eastern Caribbean dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "AL",
+    "alpha3": "ALB",
+    "numeric": "008",
+    "name": "Albania",
+    "region": "europe",
+    "continent": "Europe",
+    "motto": "You Albania, give me honour, give me the name Albanian",
+    "national_anthem_title": "Himni i Flamurit",
+    "founding_date": "1912-11-28",
+    "currency_name": "Albanian lek",
+    "motto_translation": "You, Albania, give me honor, give me the name Albanian",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "AM",
+    "alpha3": "ARM",
+    "numeric": "051",
+    "name": "Armenia",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Mer Hayrenik",
+    "founding_date": "1991-09-23",
+    "currency_name": "Armenian dram",
+    "former_names": [
+      "Soviet Union (1922-1991)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "AO",
+    "alpha3": "AGO",
+    "numeric": "024",
+    "name": "Angola",
+    "region": "africa",
+    "continent": "Africa",
+    "motto": "Virtus Unita Fortior",
+    "national_anthem_title": "Angola Avante",
+    "founding_date": "1992-08-25",
+    "currency_name": "kwanza",
+    "currency_symbol": "Kz",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "AR",
+    "alpha3": "ARG",
+    "numeric": "032",
+    "name": "Argentina",
+    "region": "americas",
+    "continent": "South America",
+    "motto": "En unión y libertad",
+    "national_anthem_title": "Argentine National Anthem",
+    "founding_date": "1816-07-09",
+    "currency_name": "Argentine convertible peso",
+    "motto_translation": "In Union and Liberty",
+    "currency_symbol": "$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "AT",
+    "alpha3": "AUT",
+    "numeric": "040",
+    "name": "Austria",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Land der Berge, Land am Strome",
+    "founding_date": "1918-11-12",
+    "currency_name": "euro",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "AU",
+    "alpha3": "AUS",
+    "numeric": "036",
+    "name": "Australia",
+    "region": "oceania",
+    "continent": "Oceania",
+    "national_anthem_title": "Advance Australia Fair",
+    "founding_date": "1901-01-01",
+    "currency_name": "Australian dollar",
+    "former_capitals": [
+      "Melbourne (1901-1927, provisional)"
+    ],
+    "currency_symbol": "A$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "AW",
+    "alpha3": "ABW",
+    "numeric": "533",
+    "name": "Aruba",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "Aruba Dushi Tera",
+    "founding_date": "1986-01-01",
+    "currency_name": "Aruban florin",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "AZ",
+    "alpha3": "AZE",
+    "numeric": "031",
+    "name": "Azerbaijan",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Azərbaycan marşı",
+    "founding_date": "1991-01-01",
+    "currency_name": "Azerbaijani manat",
+    "former_names": [
+      "Soviet Union (1920-1991)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BA",
+    "alpha3": "BIH",
+    "numeric": "070",
+    "name": "Bosnia and Herzegovina",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "national anthem of Bosnia and Herzegovina",
+    "founding_date": "1992-03-01",
+    "currency_name": "convertible mark",
+    "former_names": [
+      "Yugoslavia (1918-1992)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BB",
+    "alpha3": "BRB",
+    "numeric": "052",
+    "name": "Barbados",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "National Anthem of Barbados",
+    "founding_date": "1966-11-30",
+    "currency_name": "Barbadian dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BD",
+    "alpha3": "BGD",
+    "numeric": "050",
+    "name": "Bangladesh",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Amar Sonar Bangla",
+    "founding_date": "1971-03-26",
+    "currency_name": "Bangladeshi taka",
+    "former_names": [
+      "East Pakistan (1947-1971)",
+      "East Bengal (part of British India)"
+    ],
+    "currency_symbol": "৳",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BE",
+    "alpha3": "BEL",
+    "numeric": "056",
+    "name": "Belgium",
+    "region": "europe",
+    "continent": "Europe",
+    "motto": "Unity makes strength",
+    "national_anthem_title": "The Brabançonne",
+    "founding_date": "1830-10-04",
+    "currency_name": "euro",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BF",
+    "alpha3": "BFA",
+    "numeric": "854",
+    "name": "Burkina Faso",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Une Seule Nuit",
+    "founding_date": "1960-01-01",
+    "currency_name": "West African CFA franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BG",
+    "alpha3": "BGR",
+    "numeric": "100",
+    "name": "Bulgaria",
+    "region": "europe",
+    "continent": "Europe",
+    "motto": "Unity makes strength",
+    "national_anthem_title": "Mila Rodino",
+    "founding_date": "1878-07-13",
+    "currency_name": "euro",
+    "currency_symbol": "лв",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BH",
+    "alpha3": "BHR",
+    "numeric": "048",
+    "name": "Bahrain",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Bahrainona",
+    "founding_date": "1971-08-14",
+    "currency_name": "Bahraini dinar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BI",
+    "alpha3": "BDI",
+    "numeric": "108",
+    "name": "Burundi",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Burundi Bwacu",
+    "founding_date": "1962-07-01",
+    "currency_name": "Burundian franc",
+    "motto_translation": "Unity, Work, Progress",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BJ",
+    "alpha3": "BEN",
+    "numeric": "204",
+    "name": "Benin",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "L'Aube Nouvelle",
+    "founding_date": "1960-08-01",
+    "currency_name": "West African CFA franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BN",
+    "alpha3": "BRN",
+    "numeric": "096",
+    "name": "Brunei",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Allah Peliharakan Sultan",
+    "founding_date": "1984-01-01",
+    "currency_name": "Brunei dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BO",
+    "alpha3": "BOL",
+    "numeric": "068",
+    "name": "Bolivia",
+    "region": "americas",
+    "continent": "South America",
+    "national_anthem_title": "National Anthem of Bolivia",
+    "founding_date": "1825-01-01",
+    "currency_name": "boliviano",
+    "currency_symbol": "Bs.",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BR",
+    "alpha3": "BRA",
+    "numeric": "076",
+    "name": "Brazil",
+    "region": "americas",
+    "continent": "South America",
+    "motto": "Order and Progress",
+    "national_anthem_title": "Brazilian National Anthem",
+    "founding_date": "1822-09-07",
+    "currency_name": "Brazilian real",
+    "former_capitals": [
+      "Rio de Janeiro (1763-1960)",
+      "Salvador (1549-1763)"
+    ],
+    "currency_symbol": "R$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BS",
+    "alpha3": "BHS",
+    "numeric": "044",
+    "name": "The Bahamas",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "March On, Bahamaland",
+    "founding_date": "1973-07-10",
+    "currency_name": "Bahamian dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BT",
+    "alpha3": "BTN",
+    "numeric": "064",
+    "name": "Bhutan",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Druk Tsenden",
+    "founding_date": "1949-08-08",
+    "currency_name": "ngultrum",
+    "currency_symbol": "Nu.",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BW",
+    "alpha3": "BWA",
+    "numeric": "072",
+    "name": "Botswana",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Fatshe leno la rona",
+    "founding_date": "1966-09-30",
+    "currency_name": "Botswana pula",
+    "motto_translation": "Rain",
+    "former_names": [
+      "Bechuanaland Protectorate (until 1966)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BY",
+    "alpha3": "BLR",
+    "numeric": "112",
+    "name": "Belarus",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "My Belarusy",
+    "founding_date": "1991-09-19",
+    "currency_name": "Belarusian ruble",
+    "former_names": [
+      "Byelorussian SSR (Soviet Union)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "BZ",
+    "alpha3": "BLZ",
+    "numeric": "084",
+    "name": "Belize",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "Land of the Free",
+    "founding_date": "1981-09-21",
+    "currency_name": "Belize dollar",
+    "motto_translation": "I flourish in the shade",
+    "former_names": [
+      "British Honduras (until 1973)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CA",
+    "alpha3": "CAN",
+    "numeric": "124",
+    "name": "Canada",
+    "region": "americas",
+    "continent": "North America",
+    "motto": "A Mari Usque Ad Mare",
+    "national_anthem_title": "O Canada",
+    "founding_date": "1867-07-01",
+    "currency_name": "Canadian dollar",
+    "motto_translation": "From sea to sea",
+    "currency_symbol": "C$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CD",
+    "alpha3": "COD",
+    "numeric": "180",
+    "name": "Democratic Republic of the Congo",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Debout Congolais",
+    "founding_date": "1960-06-30",
+    "currency_name": "Congolese franc",
+    "motto_translation": "Justice, Peace, Work",
+    "former_names": [
+      "Zaire (1971-1997)",
+      "Belgian Congo (until 1960)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CF",
+    "alpha3": "CAF",
+    "numeric": "140",
+    "name": "Central African Republic",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "La Renaissance",
+    "founding_date": "1960-01-01",
+    "currency_name": "Central African CFA franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CG",
+    "alpha3": "COG",
+    "numeric": "178",
+    "name": "Republic of the Congo",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "La Congolaise",
+    "founding_date": "1960-01-01",
+    "currency_name": "Central African CFA franc",
+    "motto_translation": "Unity, Work, Progress",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CH",
+    "alpha3": "CHE",
+    "numeric": "756",
+    "name": "Switzerland",
+    "region": "europe",
+    "continent": "Europe",
+    "motto": "Unus pro omnibus, omnes pro uno",
+    "national_anthem_title": "Swiss Psalm",
+    "founding_date": "1848-09-12",
+    "currency_name": "Swiss franc",
+    "motto_translation": "One for all, all for one",
+    "currency_symbol": "CHF",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CI",
+    "alpha3": "CIV",
+    "numeric": "384",
+    "name": "Ivory Coast",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "L'Abidjanaise",
+    "founding_date": "1960-01-01",
+    "currency_name": "West African CFA franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CK",
+    "alpha3": "COK",
+    "numeric": "184",
+    "name": "Cook Islands",
+    "region": "oceania",
+    "continent": "Insular Oceania",
+    "national_anthem_title": "Te Atua Mou E",
+    "founding_date": "1965-08-04",
+    "currency_name": "Cook Islands dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CL",
+    "alpha3": "CHL",
+    "numeric": "152",
+    "name": "Chile",
+    "region": "americas",
+    "continent": "South America",
+    "national_anthem_title": "National Anthem of Chile",
+    "founding_date": "1810-09-18",
+    "currency_name": "Chilean peso",
+    "motto_translation": "By reason or by force",
+    "currency_symbol": "$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CM",
+    "alpha3": "CMR",
+    "numeric": "120",
+    "name": "Cameroon",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "O Cameroon, Cradle of Our Forefathers",
+    "founding_date": "1960-01-01",
+    "currency_name": "Central African CFA franc",
+    "motto_translation": "Peace, Work, Fatherland",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CN",
+    "alpha3": "CHN",
+    "numeric": "156",
+    "name": "People's Republic of China",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "March of the Volunteers",
+    "founding_date": "1949-10-01",
+    "currency_name": "renminbi",
+    "former_capitals": [
+      "Nanjing (1928-1949, briefly)"
+    ],
+    "former_names": [
+      "Republic of China (1912-1949)",
+      "Qing dynasty (until 1912)"
+    ],
+    "currency_symbol": "¥",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CO",
+    "alpha3": "COL",
+    "numeric": "170",
+    "name": "Colombia",
+    "region": "americas",
+    "continent": "South America",
+    "national_anthem_title": "National Anthem of Colombia",
+    "founding_date": "1810-01-01",
+    "currency_name": "Colombian peso",
+    "motto_translation": "Freedom and Order",
+    "currency_symbol": "$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CR",
+    "alpha3": "CRI",
+    "numeric": "188",
+    "name": "Costa Rica",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "Noble patria, tu hermosa bandera",
+    "founding_date": "1821-01-01",
+    "currency_name": "Costa Rican colón",
+    "motto_translation": "Long live work",
+    "currency_symbol": "₡",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CU",
+    "alpha3": "CUB",
+    "numeric": "192",
+    "name": "Cuba",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "El Himno de Bayamo",
+    "founding_date": "1898-12-10",
+    "currency_name": "Cuban peso",
+    "motto_translation": "Fatherland or Death",
+    "currency_symbol": "₱",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CV",
+    "alpha3": "CPV",
+    "numeric": "132",
+    "name": "Cape Verde",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Cântico da Liberdade",
+    "founding_date": "1975-07-05",
+    "currency_name": "Cape Verdean escudo",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CW",
+    "alpha3": "CUW",
+    "numeric": "531",
+    "name": "Curaçao",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "Himno di Kòrsou",
+    "founding_date": "1954-01-01",
+    "currency_name": "Caribbean guilder",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CY",
+    "alpha3": "CYP",
+    "numeric": "196",
+    "name": "Cyprus",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Hymn to Liberty",
+    "founding_date": "1960-08-16",
+    "currency_name": "euro",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "CZ",
+    "alpha3": "CZE",
+    "numeric": "203",
+    "name": "Czech Republic",
+    "region": "europe",
+    "continent": "Europe",
+    "motto": "Truth prevails",
+    "national_anthem_title": "Kde domov můj",
+    "founding_date": "1993-01-01",
+    "currency_name": "Czech koruna",
+    "former_names": [
+      "Czechoslovakia (1918-1992)",
+      "Bohemia and Moravia"
+    ],
+    "currency_symbol": "Kč",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "DE",
+    "alpha3": "DEU",
+    "numeric": "276",
+    "name": "Germany",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "national anthem of Germany",
+    "founding_date": "1949-05-23",
+    "currency_name": "euro",
+    "motto_translation": "Unity and Justice and Freedom",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "DJ",
+    "alpha3": "DJI",
+    "numeric": "262",
+    "name": "Djibouti",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Djibouti",
+    "founding_date": "1977-06-23",
+    "currency_name": "Djiboutian franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "DK",
+    "alpha3": "DNK",
+    "numeric": "208",
+    "name": "Denmark",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Kong Christian stod ved højen mast",
+    "founding_date": "0800-01-01",
+    "currency_name": "Danish krone",
+    "motto_translation": "Gods help, the love of the people, Denmarks strength",
+    "currency_symbol": "kr",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "DM",
+    "alpha3": "DMA",
+    "numeric": "212",
+    "name": "Dominica",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "Isle of Beauty, Isle of Splendour",
+    "founding_date": "1978-01-01",
+    "currency_name": "Eastern Caribbean dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "DO",
+    "alpha3": "DOM",
+    "numeric": "214",
+    "name": "Dominican Republic",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "National Anthem of the Dominican Republic",
+    "founding_date": "1844-01-01",
+    "currency_name": "Dominican peso",
+    "motto_translation": "God, Country, Liberty",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "DZ",
+    "alpha3": "DZA",
+    "numeric": "012",
+    "name": "Algeria",
+    "region": "africa",
+    "continent": "Africa",
+    "motto": "By the people and for the people",
+    "national_anthem_title": "Kassaman",
+    "founding_date": "1962-07-03",
+    "currency_name": "Algerian dinar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "EC",
+    "alpha3": "ECU",
+    "numeric": "218",
+    "name": "Ecuador",
+    "region": "americas",
+    "continent": "South America",
+    "national_anthem_title": "Salve, Oh Patria",
+    "founding_date": "1840-02-16",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "EE",
+    "alpha3": "EST",
+    "numeric": "233",
+    "name": "Estonia",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Mu isamaa, mu õnn ja rõõm",
+    "founding_date": "1918-02-24",
+    "currency_name": "euro",
+    "former_names": [
+      "Soviet Union (1940-1991)"
+    ],
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "EG",
+    "alpha3": "EGY",
+    "numeric": "818",
+    "name": "Egypt",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Bilady, Bilady, Bilady",
+    "founding_date": "1922-02-28",
+    "currency_name": "Egyptian pound",
+    "former_names": [
+      "United Arab Republic (1958-1971)"
+    ],
+    "currency_symbol": "E£",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "ER",
+    "alpha3": "ERI",
+    "numeric": "232",
+    "name": "Eritrea",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Ertra, Ertra, Ertra",
+    "founding_date": "1993-05-24",
+    "currency_name": "nakfa",
+    "former_names": [
+      "Part of Ethiopia (until 1993)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "ES",
+    "alpha3": "ESP",
+    "numeric": "724",
+    "name": "Spain",
+    "region": "europe",
+    "continent": "Europe",
+    "motto": "Plus ultra",
+    "national_anthem_title": "Marcha Real",
+    "founding_date": "1978-12-29",
+    "currency_name": "euro",
+    "motto_translation": "Further beyond",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "ET",
+    "alpha3": "ETH",
+    "numeric": "231",
+    "name": "Ethiopia",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "March Forward, Dear Mother Ethiopia",
+    "founding_date": "1995-08-21",
+    "currency_name": "bir",
+    "former_names": [
+      "Abyssinia (historical)",
+      "Derg / PDRE (1974-1991)"
+    ],
+    "currency_symbol": "Br",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "FI",
+    "alpha3": "FIN",
+    "numeric": "246",
+    "name": "Finland",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Maamme",
+    "founding_date": "1917-12-06",
+    "currency_name": "euro",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "FJ",
+    "alpha3": "FJI",
+    "numeric": "242",
+    "name": "Fiji",
+    "region": "oceania",
+    "continent": "Insular Oceania",
+    "national_anthem_title": "God Bless Fiji",
+    "founding_date": "1970-01-01",
+    "currency_name": "Fijian dollar",
+    "motto_translation": "Fear God and honour the Queen",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "FM",
+    "alpha3": "FSM",
+    "numeric": "583",
+    "name": "Federated States of Micronesia",
+    "region": "oceania",
+    "continent": "Oceania",
+    "national_anthem_title": "Patriots of Micronesia",
+    "founding_date": "1986-11-03",
+    "currency_name": "United States dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "FR",
+    "alpha3": "FRA",
+    "numeric": "250",
+    "name": "France",
+    "region": "europe",
+    "continent": "Europe",
+    "motto": "Liberté, égalité, fraternité",
+    "national_anthem_title": "La Marseillaise",
+    "founding_date": "1804-05-18",
+    "currency_name": "CFP Franc",
+    "motto_translation": "Liberty, Equality, Fraternity",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "GA",
+    "alpha3": "GAB",
+    "numeric": "266",
+    "name": "Gabon",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "La Concorde",
+    "founding_date": "1960-01-01",
+    "currency_name": "Central African CFA franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "GB",
+    "alpha3": "GBR",
+    "numeric": "826",
+    "name": "United Kingdom",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "God Save the King",
+    "founding_date": "1801-01-01",
+    "currency_name": "pound sterling",
+    "motto_translation": "God and my right",
+    "currency_symbol": "£",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "GD",
+    "alpha3": "GRD",
+    "numeric": "308",
+    "name": "Grenada",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "Hail Grenada",
+    "founding_date": "1974-01-01",
+    "currency_name": "Eastern Caribbean dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "GE",
+    "alpha3": "GEO",
+    "numeric": "268",
+    "name": "Georgia",
+    "region": "europe",
+    "continent": "Europe",
+    "motto": "Dzala ertobashia",
+    "national_anthem_title": "Tavisupleba",
+    "founding_date": "1991-12-25",
+    "currency_name": "Georgian lari",
+    "motto_translation": "Strength is in Unity",
+    "former_names": [
+      "Soviet Union (1921-1991)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "GH",
+    "alpha3": "GHA",
+    "numeric": "288",
+    "name": "Ghana",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "God Bless Our Homeland Ghana",
+    "founding_date": "1957-01-01",
+    "currency_name": "Ghana cedi",
+    "former_names": [
+      "Gold Coast (until 1957)"
+    ],
+    "currency_symbol": "₵",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "GL",
+    "alpha3": "GRL",
+    "numeric": "304",
+    "name": "Greenland",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "Nuna asiilasooq",
+    "currency_name": "Danish krone",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "GM",
+    "alpha3": "GMB",
+    "numeric": "270",
+    "name": "The Gambia",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "For The Gambia Our Homeland",
+    "founding_date": "1965-01-01",
+    "currency_name": "dalasi",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "GN",
+    "alpha3": "GIN",
+    "numeric": "324",
+    "name": "Guinea",
+    "region": "africa",
+    "continent": "Africa",
+    "motto": "Work, Justice, Solidarity",
+    "national_anthem_title": "Liberté",
+    "founding_date": "1958-10-02",
+    "currency_name": "Guinean franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "GQ",
+    "alpha3": "GNQ",
+    "numeric": "226",
+    "name": "Equatorial Guinea",
+    "region": "africa",
+    "continent": "Africa",
+    "motto": "Unity, Peace, Justice",
+    "national_anthem_title": "Caminemos pisando las sendas de nuestra inmensa felicidad",
+    "founding_date": "1968-10-12",
+    "currency_name": "Central African CFA franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "GR",
+    "alpha3": "GRC",
+    "numeric": "300",
+    "name": "Greece",
+    "region": "europe",
+    "continent": "Europe",
+    "motto": "Freedom or death",
+    "national_anthem_title": "Hymn to Liberty",
+    "founding_date": "1821-04-06",
+    "currency_name": "euro",
+    "motto_translation": "Freedom or Death",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "GT",
+    "alpha3": "GTM",
+    "numeric": "320",
+    "name": "Guatemala",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "National Anthem of Guatemala",
+    "founding_date": "1821-01-01",
+    "currency_name": "quetzal",
+    "motto_translation": "Grow free and fertile",
+    "currency_symbol": "Q",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "GW",
+    "alpha3": "GNB",
+    "numeric": "624",
+    "name": "Guinea-Bissau",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Esta é a Nossa Pátria bem Amada",
+    "founding_date": "1974-01-01",
+    "currency_name": "West African CFA franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "GY",
+    "alpha3": "GUY",
+    "numeric": "328",
+    "name": "Guyana",
+    "region": "americas",
+    "continent": "South America",
+    "national_anthem_title": "National anthem of Guyana",
+    "founding_date": "1966-01-01",
+    "currency_name": "Guyanese dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "HN",
+    "alpha3": "HND",
+    "numeric": "340",
+    "name": "Honduras",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "National Anthem of Honduras",
+    "founding_date": "1821-01-01",
+    "currency_name": "Honduran lempira",
+    "motto_translation": "Free, sovereign, independent",
+    "currency_symbol": "L",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "HR",
+    "alpha3": "HRV",
+    "numeric": "191",
+    "name": "Croatia",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Lijepa naša domovino",
+    "founding_date": "1991-06-25",
+    "currency_name": "euro",
+    "former_names": [
+      "Yugoslavia (1918-1991)"
+    ],
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "HT",
+    "alpha3": "HTI",
+    "numeric": "332",
+    "name": "Haiti",
+    "region": "americas",
+    "continent": "North America",
+    "motto": "Liberté, égalité, fraternité",
+    "national_anthem_title": "La Dessalinienne",
+    "founding_date": "1804-01-01",
+    "currency_name": "gourde",
+    "motto_translation": "Unity makes strength",
+    "currency_symbol": "G",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "HU",
+    "alpha3": "HUN",
+    "numeric": "348",
+    "name": "Hungary",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Himnusz",
+    "founding_date": "1000-01-01",
+    "currency_name": "forint",
+    "currency_symbol": "Ft",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "ID",
+    "alpha3": "IDN",
+    "numeric": "360",
+    "name": "Indonesia",
+    "region": "asia",
+    "continent": "Asia",
+    "motto": "Bhinneka Tunggal Ika",
+    "national_anthem_title": "Indonesia Raya",
+    "founding_date": "1945-08-17",
+    "currency_name": "rupiah",
+    "motto_translation": "Unity in Diversity",
+    "former_names": [
+      "Dutch East Indies (until 1945)"
+    ],
+    "currency_symbol": "Rp",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "IE",
+    "alpha3": "IRL",
+    "numeric": "372",
+    "name": "Ireland",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Amhrán na bhFiann",
+    "founding_date": "1937-12-29",
+    "currency_name": "euro",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "IL",
+    "alpha3": "ISR",
+    "numeric": "376",
+    "name": "Israel",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Hatikvah",
+    "founding_date": "1948-05-14",
+    "currency_name": "new shekel",
+    "currency_symbol": "₪",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "IN",
+    "alpha3": "IND",
+    "numeric": "356",
+    "name": "India",
+    "region": "asia",
+    "continent": "Asia",
+    "motto": "Satyameva Jayate",
+    "national_anthem_title": "Jana Gana Mana",
+    "founding_date": "1947-08-15",
+    "currency_name": "Indian rupee",
+    "motto_translation": "Truth alone triumphs",
+    "former_capitals": [
+      "Calcutta (1858-1911)"
+    ],
+    "currency_symbol": "₹",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "IQ",
+    "alpha3": "IRQ",
+    "numeric": "368",
+    "name": "Iraq",
+    "region": "asia",
+    "continent": "Asia",
+    "motto": "Takbir",
+    "national_anthem_title": "Mawtini",
+    "founding_date": "1932-01-01",
+    "currency_name": "Iraqi dinar",
+    "motto_translation": "God is the Greatest",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "IR",
+    "alpha3": "IRN",
+    "numeric": "364",
+    "name": "Iran",
+    "region": "asia",
+    "continent": "Asia",
+    "motto": "Takbir",
+    "national_anthem_title": "National Anthem of the Islamic Republic of Iran",
+    "founding_date": "1979-04-01",
+    "currency_name": "Iranian rial",
+    "motto_translation": "Independence, Freedom, Islamic Republic",
+    "former_names": [
+      "Persia (officially until 1935)",
+      "Imperial State of Iran (until 1979)"
+    ],
+    "currency_symbol": "﷼",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "IS",
+    "alpha3": "ISL",
+    "numeric": "352",
+    "name": "Iceland",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Lofsöngur",
+    "founding_date": "1944-06-17",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "kr",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "IT",
+    "alpha3": "ITA",
+    "numeric": "380",
+    "name": "Italy",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Il Canto degli Italiani",
+    "founding_date": "1946-06-18",
+    "currency_name": "euro",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "JM",
+    "alpha3": "JAM",
+    "numeric": "388",
+    "name": "Jamaica",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "Jamaica, Land We Love",
+    "founding_date": "1962-01-01",
+    "currency_name": "Jamaican dollar",
+    "currency_symbol": "J$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "JO",
+    "alpha3": "JOR",
+    "numeric": "400",
+    "name": "Jordan",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "The Royal Anthem of Jordan",
+    "founding_date": "1946-01-01",
+    "currency_name": "Jordanian dinar",
+    "former_names": [
+      "Transjordan (until 1949)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "JP",
+    "alpha3": "JPN",
+    "numeric": "392",
+    "name": "Japan",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Kimigayo",
+    "founding_date": "1947-05-03",
+    "currency_name": "yen",
+    "former_capitals": [
+      "Kyoto (794-1868)",
+      "Nara (710-794)"
+    ],
+    "currency_symbol": "¥",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "KE",
+    "alpha3": "KEN",
+    "numeric": "404",
+    "name": "Kenya",
+    "region": "africa",
+    "continent": "Africa",
+    "motto": "Harambee",
+    "national_anthem_title": "Ee Mungu Nguvu Yetu",
+    "founding_date": "1963-01-01",
+    "currency_name": "Kenyan shilling",
+    "motto_translation": "Let us all pull together",
+    "currency_symbol": "KSh",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "KG",
+    "alpha3": "KGZ",
+    "numeric": "417",
+    "name": "Kyrgyzstan",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "State Anthem of the Kyrgyz Republic",
+    "founding_date": "1991-01-01",
+    "currency_name": "Kyrgyz som",
+    "former_names": [
+      "Soviet Union (1936-1991)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "KH",
+    "alpha3": "KHM",
+    "numeric": "116",
+    "name": "Cambodia",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Nokor Reach",
+    "founding_date": "1953-11-09",
+    "currency_name": "riel",
+    "motto_translation": "Nation, Religion, King",
+    "former_names": [
+      "Kampuchea (1975-1989)"
+    ],
+    "currency_symbol": "៛",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "KI",
+    "alpha3": "KIR",
+    "numeric": "296",
+    "name": "Kiribati",
+    "region": "oceania",
+    "continent": "Oceania",
+    "national_anthem_title": "Kunan Kiribati",
+    "founding_date": "1979-07-12",
+    "currency_name": "Australian dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "KM",
+    "alpha3": "COM",
+    "numeric": "174",
+    "name": "Comoros",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Udzima wa ya Masiwa",
+    "founding_date": "1975-07-06",
+    "currency_name": "Comorian franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "KN",
+    "alpha3": "KNA",
+    "numeric": "659",
+    "name": "Saint Kitts and Nevis",
+    "region": "americas",
+    "continent": "North America",
+    "motto": "Country Above Self",
+    "national_anthem_title": "O Land of Beauty!",
+    "founding_date": "1967-02-27",
+    "currency_name": "Eastern Caribbean dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "KP",
+    "alpha3": "PRK",
+    "numeric": "408",
+    "name": "North Korea",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Aegukka",
+    "founding_date": "1948-09-09",
+    "currency_name": "North Korean won",
+    "motto_translation": "Prosperous and Powerful Country",
+    "currency_symbol": "₩",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "KR",
+    "alpha3": "KOR",
+    "numeric": "410",
+    "name": "South Korea",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Aegukga",
+    "founding_date": "1948-08-15",
+    "currency_name": "won",
+    "former_capitals": [
+      "Busan (1950-1953, wartime)"
+    ],
+    "currency_symbol": "₩",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "KW",
+    "alpha3": "KWT",
+    "numeric": "414",
+    "name": "Kuwait",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "National Anthem of Kuwait",
+    "founding_date": "1991-02-26",
+    "currency_name": "Kuwaiti dinar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "KZ",
+    "alpha3": "KAZ",
+    "numeric": "398",
+    "name": "Kazakhstan",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Menıñ Qazaqstanym",
+    "founding_date": "1991-01-01",
+    "currency_name": "Kazakhstani tenge",
+    "former_capitals": [
+      "Almaty (1929-1997)"
+    ],
+    "former_names": [
+      "Soviet Union (1936-1991)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "LA",
+    "alpha3": "LAO",
+    "numeric": "418",
+    "name": "Laos",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Pheng Xat Lao",
+    "founding_date": "1949-01-01",
+    "currency_name": "Lao kip",
+    "motto_translation": "Peace, Independence, Democracy, Unity, Prosperity",
+    "currency_symbol": "₭",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "LB",
+    "alpha3": "LBN",
+    "numeric": "422",
+    "name": "Lebanon",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Lebanese national anthem",
+    "founding_date": "1943-11-22",
+    "currency_name": "Lebanese pound",
+    "currency_symbol": "£",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "LC",
+    "alpha3": "LCA",
+    "numeric": "662",
+    "name": "Saint Lucia",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "Sons and Daughters of Saint Lucia",
+    "founding_date": "1979-02-22",
+    "currency_name": "Eastern Caribbean dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "LI",
+    "alpha3": "LIE",
+    "numeric": "438",
+    "name": "Liechtenstein",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Oben am jungen Rhein",
+    "founding_date": "1806-07-12",
+    "currency_name": "Swiss franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "LK",
+    "alpha3": "LKA",
+    "numeric": "144",
+    "name": "Sri Lanka",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Sri Lanka Matha",
+    "founding_date": "1972-05-22",
+    "currency_name": "Sri Lankan rupee",
+    "former_capitals": [
+      "Colombo (executive capital still)"
+    ],
+    "former_names": [
+      "Ceylon (until 1972)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "LR",
+    "alpha3": "LBR",
+    "numeric": "430",
+    "name": "Liberia",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "All Hail, Liberia, Hail!",
+    "founding_date": "1822-01-07",
+    "currency_name": "Liberian dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "LS",
+    "alpha3": "LSO",
+    "numeric": "426",
+    "name": "Lesotho",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Lesotho Fatse La Bontata Rona",
+    "founding_date": "1966-01-01",
+    "currency_name": "loti",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "LT",
+    "alpha3": "LTU",
+    "numeric": "440",
+    "name": "Lithuania",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Tautiška giesmė",
+    "founding_date": "1990-03-11",
+    "currency_name": "euro",
+    "former_capitals": [
+      "Kaunas (1920-1939)"
+    ],
+    "former_names": [
+      "Soviet Union (1940-1990)"
+    ],
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "LU",
+    "alpha3": "LUX",
+    "numeric": "442",
+    "name": "Luxembourg",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Ons Heemecht",
+    "founding_date": "1815-01-01",
+    "currency_name": "euro",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "LV",
+    "alpha3": "LVA",
+    "numeric": "428",
+    "name": "Latvia",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Dievs, svētī Latviju!",
+    "founding_date": "1918-11-18",
+    "currency_name": "euro",
+    "former_names": [
+      "Soviet Union (1940-1991)"
+    ],
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "LY",
+    "alpha3": "LBY",
+    "numeric": "434",
+    "name": "Libya",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Libya, Libya, Libya",
+    "founding_date": "1977-03-02",
+    "currency_name": "Libyan dinar",
+    "motto_translation": "God is the Greatest",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MA",
+    "alpha3": "MAR",
+    "numeric": "504",
+    "name": "Morocco",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Cherifian Anthem",
+    "founding_date": "0789-01-01",
+    "currency_name": "Moroccan dirham",
+    "motto_translation": "God, Country, King",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MC",
+    "alpha3": "MCO",
+    "numeric": "492",
+    "name": "Monaco",
+    "region": "europe",
+    "continent": "Europe",
+    "motto": "Deo juvante",
+    "national_anthem_title": "Hymne monégasque",
+    "founding_date": "1297-01-15",
+    "currency_name": "euro",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MD",
+    "alpha3": "MDA",
+    "numeric": "498",
+    "name": "Moldova",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Limba noastră",
+    "founding_date": "1991-08-27",
+    "currency_name": "Moldovan leu",
+    "former_names": [
+      "Moldavian SSR (Soviet Union)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "ME",
+    "alpha3": "MNE",
+    "numeric": "499",
+    "name": "Montenegro",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Oj, svijetla majska zoro",
+    "founding_date": "2006-06-03",
+    "currency_name": "euro",
+    "former_names": [
+      "Serbia and Montenegro (2003-2006)"
+    ],
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MG",
+    "alpha3": "MDG",
+    "numeric": "450",
+    "name": "Madagascar",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Ry Tanindrazanay malala ô!",
+    "founding_date": "1960-01-01",
+    "currency_name": "ariary",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MH",
+    "alpha3": "MHL",
+    "numeric": "584",
+    "name": "Marshall Islands",
+    "region": "oceania",
+    "continent": "Oceania",
+    "national_anthem_title": "Forever Marshall Islands",
+    "founding_date": "1986-10-21",
+    "currency_name": "SOV",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MK",
+    "alpha3": "MKD",
+    "numeric": "807",
+    "name": "North Macedonia",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Denes nad Makedonija",
+    "founding_date": "1991-01-01",
+    "currency_name": "Macedonian denar",
+    "former_names": [
+      "Yugoslavia (1944-1991)",
+      "Republic of Macedonia (1991-2019)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "ML",
+    "alpha3": "MLI",
+    "numeric": "466",
+    "name": "Mali",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Pour l'Afrique et pour toi",
+    "founding_date": "1960-09-22",
+    "currency_name": "West African CFA franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MM",
+    "alpha3": "MMR",
+    "numeric": "104",
+    "name": "Myanmar",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Kaba Ma Kyei",
+    "founding_date": "1948-01-04",
+    "currency_name": "kyat",
+    "former_capitals": [
+      "Yangon / Rangoon (until 2006)"
+    ],
+    "former_names": [
+      "Burma (until 1989)"
+    ],
+    "currency_symbol": "K",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MN",
+    "alpha3": "MNG",
+    "numeric": "496",
+    "name": "Mongolia",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "National anthem of Mongolia",
+    "founding_date": "1992-02-12",
+    "currency_name": "Mongolian tögrög",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MR",
+    "alpha3": "MRT",
+    "numeric": "478",
+    "name": "Mauritania",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "National anthem of Mauritania",
+    "founding_date": "1960-11-28",
+    "currency_name": "Mauritanian ouguiya",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MT",
+    "alpha3": "MLT",
+    "numeric": "470",
+    "name": "Malta",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "L-Innu Malti",
+    "founding_date": "1964-09-21",
+    "currency_name": "euro",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MU",
+    "alpha3": "MUS",
+    "numeric": "480",
+    "name": "Mauritius",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Motherland",
+    "founding_date": "1968-03-12",
+    "currency_name": "Mauritian rupee",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MV",
+    "alpha3": "MDV",
+    "numeric": "462",
+    "name": "Maldives",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Gaumiii salaaam",
+    "founding_date": "1968-11-11",
+    "currency_name": "Maldivian rufiyaa",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MW",
+    "alpha3": "MWI",
+    "numeric": "454",
+    "name": "Malawi",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Chiuta dangililani Malaŵi",
+    "founding_date": "1964-07-06",
+    "currency_name": "Malawian kwacha",
+    "motto_translation": "Unity and Freedom",
+    "former_names": [
+      "Nyasaland (until 1964)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MX",
+    "alpha3": "MEX",
+    "numeric": "484",
+    "name": "Mexico",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "National Anthem of Mexico",
+    "founding_date": "1810-09-16",
+    "currency_name": "peso",
+    "currency_symbol": "$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MY",
+    "alpha3": "MYS",
+    "numeric": "458",
+    "name": "Malaysia",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Negaraku",
+    "founding_date": "1963-09-16",
+    "currency_name": "Malaysian ringgit",
+    "motto_translation": "Unity is Strength",
+    "former_names": [
+      "Federation of Malaya (1948-1963)"
+    ],
+    "currency_symbol": "RM",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "MZ",
+    "alpha3": "MOZ",
+    "numeric": "508",
+    "name": "Mozambique",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Pátria Amada",
+    "founding_date": "1975-06-25",
+    "currency_name": "Mozambican metical",
+    "currency_symbol": "MT",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "NA",
+    "alpha3": "NAM",
+    "numeric": "516",
+    "name": "Namibia",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Namibia, Land of the Brave",
+    "founding_date": "1990-01-01",
+    "currency_name": "Namibian dollar",
+    "motto_translation": "Unity, Liberty, Justice",
+    "former_names": [
+      "South West Africa (until 1990)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "NE",
+    "alpha3": "NER",
+    "numeric": "562",
+    "name": "Niger",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "L'Honneur de la Patrie",
+    "founding_date": "1960-01-01",
+    "currency_name": "West African CFA franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "NG",
+    "alpha3": "NGA",
+    "numeric": "566",
+    "name": "Nigeria",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Nigeria, We Hail Thee",
+    "founding_date": "1963-10-01",
+    "currency_name": "naira",
+    "former_capitals": [
+      "Lagos (until 1991)"
+    ],
+    "currency_symbol": "₦",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "NI",
+    "alpha3": "NIC",
+    "numeric": "558",
+    "name": "Nicaragua",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "Salve a ti",
+    "founding_date": "1821-01-01",
+    "currency_name": "Nicaraguan córdoba",
+    "motto_translation": "In God We Trust",
+    "currency_symbol": "C$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "NL",
+    "alpha3": "NLD",
+    "numeric": "528",
+    "name": "Kingdom of the Netherlands",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Wilhelmus",
+    "founding_date": "1815-03-16",
+    "currency_name": "United States dollar",
+    "motto_translation": "I will maintain",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "NO",
+    "alpha3": "NOR",
+    "numeric": "578",
+    "name": "Norway",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Ja, vi elsker dette landet",
+    "founding_date": "1905-10-26",
+    "currency_name": "Norwegian krone",
+    "motto_translation": "All for Norway",
+    "currency_symbol": "kr",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "NP",
+    "alpha3": "NPL",
+    "numeric": "524",
+    "name": "Nepal",
+    "region": "asia",
+    "continent": "Asia",
+    "motto": "Mother and Motherland are Greater than Heaven",
+    "national_anthem_title": "Sayaun Thunga Phulka",
+    "founding_date": "2008-05-28",
+    "currency_name": "Nepalese rupee",
+    "former_names": [
+      "Kingdom of Nepal (until 2008)"
+    ],
+    "currency_symbol": "₨",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "NR",
+    "alpha3": "NRU",
+    "numeric": "520",
+    "name": "Nauru",
+    "region": "oceania",
+    "continent": "Oceania",
+    "national_anthem_title": "Nauru Bwiema",
+    "founding_date": "1968-01-31",
+    "currency_name": "Australian dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "NU",
+    "alpha3": "NIU",
+    "numeric": "570",
+    "name": "Niue",
+    "region": "oceania",
+    "continent": "Insular Oceania",
+    "national_anthem_title": "Ko e Iki he Lagi",
+    "founding_date": "1974-01-01",
+    "currency_name": "Niue dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "NZ",
+    "alpha3": "NZL",
+    "numeric": "554",
+    "name": "New Zealand",
+    "region": "oceania",
+    "continent": "Oceania",
+    "national_anthem_title": "God Defend New Zealand",
+    "founding_date": "1986-12-13",
+    "currency_name": "New Zealand dollar",
+    "former_names": [
+      "Dominion of New Zealand (1907-1947)"
+    ],
+    "currency_symbol": "NZ$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "OM",
+    "alpha3": "OMN",
+    "numeric": "512",
+    "name": "Oman",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Nashid as-Salaam as-Sultani",
+    "founding_date": "1970-07-23",
+    "currency_name": "Omani rial",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "PA",
+    "alpha3": "PAN",
+    "numeric": "591",
+    "name": "Panama",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "National anthem of Panama",
+    "founding_date": "1903-01-01",
+    "currency_name": "United States dollar",
+    "motto_translation": "For the benefit of the world",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "PE",
+    "alpha3": "PER",
+    "numeric": "604",
+    "name": "Peru",
+    "region": "americas",
+    "continent": "South America",
+    "national_anthem_title": "National Anthem of Peru",
+    "founding_date": "1821-07-28",
+    "currency_name": "Nuevo sol",
+    "motto_translation": "Firm and Happy for the Union",
+    "currency_symbol": "S/",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "PG",
+    "alpha3": "PNG",
+    "numeric": "598",
+    "name": "Papua New Guinea",
+    "region": "oceania",
+    "continent": "Oceania",
+    "motto": "Unity in Diversity",
+    "national_anthem_title": "O Arise, All You Sons",
+    "founding_date": "1975-01-01",
+    "currency_name": "kina",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "PH",
+    "alpha3": "PHL",
+    "numeric": "608",
+    "name": "Philippines",
+    "region": "asia",
+    "continent": "Asia",
+    "motto": "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa",
+    "national_anthem_title": "Lupang Hinirang",
+    "founding_date": "1946-07-04",
+    "currency_name": "Philippine peso",
+    "motto_translation": "For God, People, Nature, and Country",
+    "currency_symbol": "₱",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "PK",
+    "alpha3": "PAK",
+    "numeric": "586",
+    "name": "Pakistan",
+    "region": "asia",
+    "continent": "Asia",
+    "motto": "Iman, Ittihad, Nazm",
+    "national_anthem_title": "Qaumi Taranah",
+    "founding_date": "1947-08-14",
+    "currency_name": "Pakistani rupee",
+    "motto_translation": "Faith, Unity, Discipline",
+    "former_capitals": [
+      "Karachi (1947-1959)",
+      "Rawalpindi (1959-1966, interim)"
+    ],
+    "currency_symbol": "₨",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "PL",
+    "alpha3": "POL",
+    "numeric": "616",
+    "name": "Poland",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Poland Is Not Yet Lost",
+    "founding_date": "1918-11-11",
+    "currency_name": "złoty",
+    "currency_symbol": "zł",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "PS",
+    "alpha3": "PSE",
+    "numeric": "275",
+    "name": "Palestine",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Fida'i",
+    "founding_date": "1988-11-15",
+    "currency_name": "new shekel",
+    "currency_symbol": "₪",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "PT",
+    "alpha3": "PRT",
+    "numeric": "620",
+    "name": "Portugal",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "A Portuguesa",
+    "founding_date": "1179-05-30",
+    "currency_name": "euro",
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "PW",
+    "alpha3": "PLW",
+    "numeric": "585",
+    "name": "Palau",
+    "region": "oceania",
+    "continent": "Oceania",
+    "national_anthem_title": "Belau rekid",
+    "founding_date": "1994-10-01",
+    "currency_name": "United States dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "PY",
+    "alpha3": "PRY",
+    "numeric": "600",
+    "name": "Paraguay",
+    "region": "americas",
+    "continent": "South America",
+    "national_anthem_title": "national anthem of Paraguay",
+    "founding_date": "1811-01-01",
+    "currency_name": "Paraguayan guaraní",
+    "motto_translation": "Peace and Justice",
+    "currency_symbol": "₲",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "QA",
+    "alpha3": "QAT",
+    "numeric": "634",
+    "name": "Qatar",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "As Salam al Amiri",
+    "founding_date": "1870-01-01",
+    "currency_name": "Qatari riyal",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "RO",
+    "alpha3": "ROU",
+    "numeric": "642",
+    "name": "Romania",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Deșteaptă-te, române!",
+    "founding_date": "1859-02-05",
+    "currency_name": "Romanian Leu",
+    "currency_symbol": "lei",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "RS",
+    "alpha3": "SRB",
+    "numeric": "688",
+    "name": "Serbia",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Bože pravde",
+    "founding_date": "2006-01-01",
+    "currency_name": "Serbian dinar",
+    "motto_translation": "Only Unity Saves the Serbs",
+    "former_names": [
+      "Yugoslavia (1918-2003)",
+      "Serbia and Montenegro (2003-2006)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "RU",
+    "alpha3": "RUS",
+    "numeric": "643",
+    "name": "Russia",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "State Anthem of the Russian Federation",
+    "founding_date": "1263-01-01",
+    "currency_name": "Russian ruble",
+    "former_capitals": [
+      "Saint Petersburg (1712-1918)"
+    ],
+    "former_names": [
+      "Soviet Union (1922-1991)",
+      "Russian Empire (until 1917)"
+    ],
+    "currency_symbol": "₽",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "RW",
+    "alpha3": "RWA",
+    "numeric": "646",
+    "name": "Rwanda",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Rwanda Nziza",
+    "founding_date": "1962-01-01",
+    "currency_name": "Rwandan franc",
+    "motto_translation": "Unity, Work, Patriotism",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SA",
+    "alpha3": "SAU",
+    "numeric": "682",
+    "name": "Saudi Arabia",
+    "region": "asia",
+    "continent": "Asia",
+    "motto": "Shahada",
+    "national_anthem_title": "Chant of the Saudi Nation",
+    "founding_date": "1727-01-01",
+    "currency_name": "Saudi riyal",
+    "motto_translation": "There is no god but God; Muhammad is the messenger of God",
+    "former_names": [
+      "Kingdom of Hejaz and Nejd (until 1932)"
+    ],
+    "currency_symbol": "﷼",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SB",
+    "alpha3": "SLB",
+    "numeric": "090",
+    "name": "Solomon Islands",
+    "region": "oceania",
+    "continent": "Oceania",
+    "national_anthem_title": "God Save Our Solomon Islands",
+    "founding_date": "1978-01-01",
+    "currency_name": "Solomon Islands dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SC",
+    "alpha3": "SYC",
+    "numeric": "690",
+    "name": "Seychelles",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Koste Seselwa",
+    "founding_date": "1976-06-29",
+    "currency_name": "Seychellois rupee",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SD",
+    "alpha3": "SDN",
+    "numeric": "729",
+    "name": "Sudan",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Nahnu Jund Allah Jund Al-watan",
+    "founding_date": "1956-01-01",
+    "currency_name": "Sudanese pound",
+    "motto_translation": "Victory is from God",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SE",
+    "alpha3": "SWE",
+    "numeric": "752",
+    "name": "Sweden",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Du gamla, du fria",
+    "founding_date": "0900-01-01",
+    "currency_name": "Swedish krona",
+    "motto_translation": "For Sweden, With the Times",
+    "currency_symbol": "kr",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SG",
+    "alpha3": "SGP",
+    "numeric": "702",
+    "name": "Singapore",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Onward Singapore",
+    "founding_date": "1965-08-09",
+    "currency_name": "Singapore dollar",
+    "motto_translation": "Onward Singapore",
+    "former_names": [
+      "Part of Malaysia (1963-1965)",
+      "Straits Settlements (until 1946)"
+    ],
+    "currency_symbol": "S$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SI",
+    "alpha3": "SVN",
+    "numeric": "705",
+    "name": "Slovenia",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Zdravljica",
+    "founding_date": "1991-06-25",
+    "currency_name": "euro",
+    "former_names": [
+      "Yugoslavia (1918-1991)"
+    ],
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SK",
+    "alpha3": "SVK",
+    "numeric": "703",
+    "name": "Slovakia",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Nad Tatrou sa blýska",
+    "founding_date": "1993-01-01",
+    "currency_name": "euro",
+    "former_names": [
+      "Czechoslovakia (1918-1992)"
+    ],
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SL",
+    "alpha3": "SLE",
+    "numeric": "694",
+    "name": "Sierra Leone",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "High We Exalt Thee, Realm of the Free",
+    "founding_date": "1971-04-19",
+    "currency_name": "leone",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SM",
+    "alpha3": "SMR",
+    "numeric": "674",
+    "name": "San Marino",
+    "region": "europe",
+    "continent": "Europe",
+    "founding_date": "0301-09-04",
+    "currency_name": "euro",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SN",
+    "alpha3": "SEN",
+    "numeric": "686",
+    "name": "Senegal",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Le Lion rouge",
+    "founding_date": "1960-01-01",
+    "currency_name": "West African CFA franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SO",
+    "alpha3": "SOM",
+    "numeric": "706",
+    "name": "Somalia",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Qolobaa Calankeed",
+    "founding_date": "1960-01-01",
+    "currency_name": "Somali shilling",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SR",
+    "alpha3": "SUR",
+    "numeric": "740",
+    "name": "Suriname",
+    "region": "americas",
+    "continent": "South America",
+    "national_anthem_title": "God zij met ons Suriname",
+    "founding_date": "1975-11-25",
+    "currency_name": "Surinamese dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SS",
+    "alpha3": "SSD",
+    "numeric": "728",
+    "name": "South Sudan",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "South Sudan Oyee!",
+    "founding_date": "2011-07-09",
+    "currency_name": "South Sudanese pound",
+    "motto_translation": "Justice, Liberty, Prosperity",
+    "former_names": [
+      "Part of Sudan (until 2011)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "ST",
+    "alpha3": "STP",
+    "numeric": "678",
+    "name": "São Tomé and Príncipe",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Independência total",
+    "founding_date": "1975-07-12",
+    "currency_name": "São Tomé and Príncipe dobra",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SV",
+    "alpha3": "SLV",
+    "numeric": "222",
+    "name": "El Salvador",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "National anthem of El Salvador",
+    "founding_date": "1841-02-02",
+    "currency_name": "Bitcoin",
+    "motto_translation": "God, Union, Liberty",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SX",
+    "alpha3": "SXM",
+    "numeric": "534",
+    "name": "Sint Maarten",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "O Sweet Saint Martin's Land",
+    "founding_date": "2010-01-01",
+    "currency_name": "Caribbean guilder",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SY",
+    "alpha3": "SYR",
+    "numeric": "760",
+    "name": "Syria",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Humat ad-Diyar",
+    "founding_date": "1920-03-08",
+    "currency_name": "Syrian pound",
+    "former_names": [
+      "United Arab Republic (1958-1961, with Egypt)"
+    ],
+    "currency_symbol": "£",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "SZ",
+    "alpha3": "SWZ",
+    "numeric": "748",
+    "name": "Eswatini",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Nkulunkulu Mnikati wetibusiso temaSwati",
+    "founding_date": "1968-09-06",
+    "currency_name": "lilangeni",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "TD",
+    "alpha3": "TCD",
+    "numeric": "148",
+    "name": "Chad",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "La Tchadienne",
+    "founding_date": "1960-08-11",
+    "currency_name": "Central African CFA franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "TG",
+    "alpha3": "TGO",
+    "numeric": "768",
+    "name": "Togo",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Terre de nos aïeux",
+    "founding_date": "1960-04-27",
+    "currency_name": "West African CFA franc",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "TH",
+    "alpha3": "THA",
+    "numeric": "764",
+    "name": "Thailand",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Thai National Anthem",
+    "founding_date": "1768-12-28",
+    "currency_name": "baht",
+    "former_names": [
+      "Siam (until 1939, 1945-1949)"
+    ],
+    "currency_symbol": "฿",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "TJ",
+    "alpha3": "TJK",
+    "numeric": "762",
+    "name": "Tajikistan",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "National anthem of Tajikistan",
+    "founding_date": "1991-09-09",
+    "currency_name": "Tajikistani somoni",
+    "former_names": [
+      "Soviet Union (1929-1991)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "TL",
+    "alpha3": "TLS",
+    "numeric": "626",
+    "name": "Timor-Leste",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Pátria",
+    "founding_date": "1975-11-28",
+    "currency_name": "East Timor centavo coins",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "TM",
+    "alpha3": "TKM",
+    "numeric": "795",
+    "name": "Turkmenistan",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "National anthem of Turkmenistan",
+    "founding_date": "1991-10-27",
+    "currency_name": "Turkmenistan new manat",
+    "former_names": [
+      "Soviet Union (1924-1991)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "TN",
+    "alpha3": "TUN",
+    "numeric": "788",
+    "name": "Tunisia",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Humat Al Hima",
+    "founding_date": "1956-03-20",
+    "currency_name": "Tunisian dinar",
+    "motto_translation": "Freedom, Dignity, Justice, Order",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "TO",
+    "alpha3": "TON",
+    "numeric": "776",
+    "name": "Tonga",
+    "region": "oceania",
+    "continent": "Oceania",
+    "national_anthem_title": "Ko e fasi 'o e tu'i 'o e 'Otu Tonga",
+    "founding_date": "1970-01-01",
+    "currency_name": "Tongan paʻanga",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "TR",
+    "alpha3": "TUR",
+    "numeric": "792",
+    "name": "Turkey",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "İstiklâl Marşı",
+    "founding_date": "1923-10-29",
+    "currency_name": "Turkish lira",
+    "motto_translation": "Peace at Home, Peace in the World",
+    "former_capitals": [
+      "Istanbul / Constantinople (until 1923)"
+    ],
+    "former_names": [
+      "Ottoman Empire (until 1922)"
+    ],
+    "currency_symbol": "₺",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "TT",
+    "alpha3": "TTO",
+    "numeric": "780",
+    "name": "Trinidad and Tobago",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "Forged from the Love of Liberty",
+    "founding_date": "1976-08-01",
+    "currency_name": "Trinidad and Tobago dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "TV",
+    "alpha3": "TUV",
+    "numeric": "798",
+    "name": "Tuvalu",
+    "region": "oceania",
+    "continent": "Oceania",
+    "national_anthem_title": "Tuvalu mo te Atua",
+    "founding_date": "1978-10-01",
+    "currency_name": "Tuvaluan dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "TW",
+    "alpha3": "TWN",
+    "numeric": "158",
+    "name": "Taiwan",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "National Anthem of the Republic of China",
+    "founding_date": "1912-01-01",
+    "currency_name": "New Taiwan dollar",
+    "former_names": [
+      "Republic of China (since 1912; effective territory Taiwan since 1949)",
+      "Formosa (historical)"
+    ],
+    "currency_symbol": "NT$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "TZ",
+    "alpha3": "TZA",
+    "numeric": "834",
+    "name": "Tanzania",
+    "region": "africa",
+    "continent": "Africa",
+    "motto": "Freedom and Unity",
+    "national_anthem_title": "Mungu ibariki Afrika",
+    "founding_date": "1964-04-26",
+    "currency_name": "Tanzanian shilling",
+    "former_names": [
+      "Tanganyika + Zanzibar (until 1964 union)"
+    ],
+    "currency_symbol": "TSh",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "UA",
+    "alpha3": "UKR",
+    "numeric": "804",
+    "name": "Ukraine",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Shche ne vmerla Ukrainy i slava, i volia",
+    "founding_date": "1991-08-24",
+    "currency_name": "hryvnia",
+    "former_capitals": [
+      "Kharkiv (1919-1934)"
+    ],
+    "former_names": [
+      "Ukrainian SSR (Soviet Union)"
+    ],
+    "currency_symbol": "₴",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "UG",
+    "alpha3": "UGA",
+    "numeric": "800",
+    "name": "Uganda",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Oh Uganda, Land of Beauty",
+    "founding_date": "1962-01-01",
+    "currency_name": "Ugandan shilling",
+    "currency_symbol": "USh",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "US",
+    "alpha3": "USA",
+    "numeric": "840",
+    "name": "United States",
+    "region": "americas",
+    "continent": "North America",
+    "motto": "In God We Trust",
+    "national_anthem_title": "The Star-Spangled Banner",
+    "founding_date": "1784-05-12",
+    "currency_name": "United States dollar",
+    "former_capitals": [
+      "Philadelphia (1790-1800)",
+      "New York City (1785-1790)"
+    ],
+    "currency_symbol": "$",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "UY",
+    "alpha3": "URY",
+    "numeric": "858",
+    "name": "Uruguay",
+    "region": "americas",
+    "continent": "South America",
+    "motto": "Liberty or Death",
+    "national_anthem_title": "National Anthem of Uruguay",
+    "founding_date": "1825-08-25",
+    "currency_name": "Uruguayan peso",
+    "motto_translation": "Freedom or Death",
+    "currency_symbol": "$U",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "UZ",
+    "alpha3": "UZB",
+    "numeric": "860",
+    "name": "Uzbekistan",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "National Anthem of Uzbekistan",
+    "founding_date": "1991-01-01",
+    "currency_name": "Uzbek som",
+    "former_capitals": [
+      "Samarkand (1925-1930)"
+    ],
+    "former_names": [
+      "Soviet Union (1924-1991)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "VA",
+    "alpha3": "VAT",
+    "numeric": "336",
+    "name": "Vatican City",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Inno e Marcia Pontificale",
+    "founding_date": "1929-02-11",
+    "currency_name": "euro",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "VC",
+    "alpha3": "VCT",
+    "numeric": "670",
+    "name": "Saint Vincent and the Grenadines",
+    "region": "americas",
+    "continent": "North America",
+    "national_anthem_title": "Saint Vincent, Land so Beautiful",
+    "founding_date": "1979-01-01",
+    "currency_name": "Eastern Caribbean dollar",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "VE",
+    "alpha3": "VEN",
+    "numeric": "862",
+    "name": "Venezuela",
+    "region": "americas",
+    "continent": "South America",
+    "national_anthem_title": "gloria al bravo pueblo",
+    "founding_date": "1845-03-30",
+    "currency_name": "sovereign bolivar",
+    "currency_symbol": "Bs.",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "VN",
+    "alpha3": "VNM",
+    "numeric": "704",
+    "name": "Vietnam",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "Tiến Quân Ca",
+    "founding_date": "1976-07-02",
+    "currency_name": "Vietnamese đồng",
+    "motto_translation": "Independence, Freedom, Happiness",
+    "former_capitals": [
+      "Saigon (South Vietnam capital, until 1975)"
+    ],
+    "former_names": [
+      "Republic of Vietnam (South, until 1975)",
+      "Democratic Republic of Vietnam (North, until 1976)"
+    ],
+    "currency_symbol": "₫",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "VU",
+    "alpha3": "VUT",
+    "numeric": "548",
+    "name": "Vanuatu",
+    "region": "oceania",
+    "continent": "Insular Oceania",
+    "national_anthem_title": "Yumi, Yumi",
+    "founding_date": "1980-07-30",
+    "currency_name": "Vanuatu vatus",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "WS",
+    "alpha3": "WSM",
+    "numeric": "882",
+    "name": "Samoa",
+    "region": "oceania",
+    "continent": "Oceania",
+    "national_anthem_title": "The Banner of Freedom",
+    "founding_date": "1962-01-01",
+    "currency_name": "Samoan tālā",
+    "motto_translation": "God is the foundation of Samoa",
+    "former_names": [
+      "Western Samoa (until 1997)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "XK",
+    "alpha3": "XKS",
+    "numeric": null,
+    "name": "Kosovo",
+    "region": "europe",
+    "continent": "Europe",
+    "national_anthem_title": "Europe",
+    "founding_date": "2008-02-17",
+    "currency_name": "euro",
+    "former_names": [
+      "Yugoslavia (until 1999)",
+      "UN-administered (1999-2008)"
+    ],
+    "currency_symbol": "€",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "YE",
+    "alpha3": "YEM",
+    "numeric": "887",
+    "name": "Yemen",
+    "region": "asia",
+    "continent": "Asia",
+    "national_anthem_title": "National anthem of Yemen",
+    "founding_date": "1990-05-22",
+    "currency_name": "Yemeni Rial",
+    "former_names": [
+      "North Yemen + South Yemen (until 1990 unification)"
+    ],
+    "currency_symbol": "﷼",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "ZA",
+    "alpha3": "ZAF",
+    "numeric": "710",
+    "name": "South Africa",
+    "region": "africa",
+    "continent": "Africa",
+    "motto": "Unity in Diversity",
+    "national_anthem_title": "national anthem of Mzansi",
+    "founding_date": "1910-05-31",
+    "currency_name": "rand",
+    "currency_symbol": "R",
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "ZM",
+    "alpha3": "ZMB",
+    "numeric": "894",
+    "name": "Zambia",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "Stand and Sing of Zambia, Proud and Free",
+    "founding_date": "1964-10-24",
+    "currency_name": "Zambian Kwacha",
+    "motto_translation": "One Zambia, One Nation",
+    "former_names": [
+      "Northern Rhodesia (until 1964)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  },
+  {
+    "alpha2": "ZW",
+    "alpha3": "ZWE",
+    "numeric": "716",
+    "name": "Zimbabwe",
+    "region": "africa",
+    "continent": "Africa",
+    "national_anthem_title": "National Anthem of Zimbabwe",
+    "founding_date": "1980-04-18",
+    "currency_name": "Zimbabwean dollar",
+    "former_names": [
+      "Rhodesia (until 1980)",
+      "Southern Rhodesia (until 1965)"
+    ],
+    "sources": [
+      "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+    ]
+  }
+]

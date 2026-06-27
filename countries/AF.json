@@ -1,0 +1,20 @@
+{
+  "alpha2": "AF",
+  "alpha3": "AFG",
+  "numeric": "004",
+  "name": "Afghanistan",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "This Is the Home of the Brave",
+  "founding_date": "2021-01-01",
+  "currency_name": "afghani",
+  "motto_translation": "There is no god but God; Muhammad is the messenger of God",
+  "former_names": [
+    "Islamic Republic of Afghanistan (2004-2021)",
+    "Kingdom of Afghanistan (until 1973)"
+  ],
+  "currency_symbol": "؋",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

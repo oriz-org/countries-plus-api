@@ -1,0 +1,17 @@
+{
+  "alpha2": "GR",
+  "alpha3": "GRC",
+  "numeric": "300",
+  "name": "Greece",
+  "region": "europe",
+  "continent": "Europe",
+  "motto": "Freedom or death",
+  "national_anthem_title": "Hymn to Liberty",
+  "founding_date": "1821-04-06",
+  "currency_name": "euro",
+  "motto_translation": "Freedom or Death",
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

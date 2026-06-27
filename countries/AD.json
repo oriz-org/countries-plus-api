@@ -1,0 +1,14 @@
+{
+  "alpha2": "AD",
+  "alpha3": "AND",
+  "numeric": "020",
+  "name": "Andorra",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "El gran Carlemany",
+  "founding_date": "1993-01-01",
+  "currency_name": "euro",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "alpha2": "NA",
+  "alpha3": "NAM",
+  "numeric": "516",
+  "name": "Namibia",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "Namibia, Land of the Brave",
+  "founding_date": "1990-01-01",
+  "currency_name": "Namibian dollar",
+  "motto_translation": "Unity, Liberty, Justice",
+  "former_names": [
+    "South West Africa (until 1990)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

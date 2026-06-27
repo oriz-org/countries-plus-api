@@ -1,0 +1,16 @@
+{
+  "alpha2": "DE",
+  "alpha3": "DEU",
+  "numeric": "276",
+  "name": "Germany",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "national anthem of Germany",
+  "founding_date": "1949-05-23",
+  "currency_name": "euro",
+  "motto_translation": "Unity and Justice and Freedom",
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

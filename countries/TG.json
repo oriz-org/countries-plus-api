@@ -1,0 +1,14 @@
+{
+  "alpha2": "TG",
+  "alpha3": "TGO",
+  "numeric": "768",
+  "name": "Togo",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "Terre de nos aïeux",
+  "founding_date": "1960-04-27",
+  "currency_name": "West African CFA franc",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

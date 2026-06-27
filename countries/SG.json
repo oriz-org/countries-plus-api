@@ -1,0 +1,20 @@
+{
+  "alpha2": "SG",
+  "alpha3": "SGP",
+  "numeric": "702",
+  "name": "Singapore",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Onward Singapore",
+  "founding_date": "1965-08-09",
+  "currency_name": "Singapore dollar",
+  "motto_translation": "Onward Singapore",
+  "former_names": [
+    "Part of Malaysia (1963-1965)",
+    "Straits Settlements (until 1946)"
+  ],
+  "currency_symbol": "S$",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "alpha2": "ZA",
+  "alpha3": "ZAF",
+  "numeric": "710",
+  "name": "South Africa",
+  "region": "africa",
+  "continent": "Africa",
+  "motto": "Unity in Diversity",
+  "national_anthem_title": "national anthem of Mzansi",
+  "founding_date": "1910-05-31",
+  "currency_name": "rand",
+  "currency_symbol": "R",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

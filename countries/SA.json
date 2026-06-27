@@ -1,0 +1,20 @@
+{
+  "alpha2": "SA",
+  "alpha3": "SAU",
+  "numeric": "682",
+  "name": "Saudi Arabia",
+  "region": "asia",
+  "continent": "Asia",
+  "motto": "Shahada",
+  "national_anthem_title": "Chant of the Saudi Nation",
+  "founding_date": "1727-01-01",
+  "currency_name": "Saudi riyal",
+  "motto_translation": "There is no god but God; Muhammad is the messenger of God",
+  "former_names": [
+    "Kingdom of Hejaz and Nejd (until 1932)"
+  ],
+  "currency_symbol": "﷼",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

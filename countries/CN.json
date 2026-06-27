@@ -1,0 +1,22 @@
+{
+  "alpha2": "CN",
+  "alpha3": "CHN",
+  "numeric": "156",
+  "name": "People's Republic of China",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "March of the Volunteers",
+  "founding_date": "1949-10-01",
+  "currency_name": "renminbi",
+  "former_capitals": [
+    "Nanjing (1928-1949, briefly)"
+  ],
+  "former_names": [
+    "Republic of China (1912-1949)",
+    "Qing dynasty (until 1912)"
+  ],
+  "currency_symbol": "¥",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

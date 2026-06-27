@@ -1,0 +1,13 @@
+{
+  "alpha2": "GL",
+  "alpha3": "GRL",
+  "numeric": "304",
+  "name": "Greenland",
+  "region": "americas",
+  "continent": "North America",
+  "national_anthem_title": "Nuna asiilasooq",
+  "currency_name": "Danish krone",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

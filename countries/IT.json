@@ -1,0 +1,15 @@
+{
+  "alpha2": "IT",
+  "alpha3": "ITA",
+  "numeric": "380",
+  "name": "Italy",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Il Canto degli Italiani",
+  "founding_date": "1946-06-18",
+  "currency_name": "euro",
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,185 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout title="Explorer &mdash; Countries+ API" path="/explorer">
+  <section class="mx-auto max-w-5xl px-6 pt-16 pb-8">
+    <p class="font-mono text-xs uppercase tracking-wider text-teal-600 dark:text-teal-400">Interactive</p>
+    <h1 class="mt-2 text-4xl font-bold tracking-tight">Live explorer</h1>
+    <p class="mt-3 max-w-2xl text-zinc-600 dark:text-zinc-400">Pick a region, then a country &mdash; the response below is fetched live from this site's own JSON endpoints. Fields highlighted in teal are the ones not in <a href="https://restcountries.com" target="_blank" rel="noopener noreferrer" class="underline decoration-teal-500/40 underline-offset-4 hover:text-teal-700 dark:hover:text-teal-400">RestCountries</a>.</p>
+  </section>
+
+  <section class="mx-auto max-w-5xl px-6 py-8">
+    <form id="explorer-form" class="grid gap-4 sm:grid-cols-2">
+      <label class="block">
+        <span class="block text-sm font-medium text-zinc-700 dark:text-zinc-300">Region</span>
+        <select
+          id="region-select"
+          class="mt-2 w-full rounded-md border border-zinc-300 bg-white px-3 py-2 font-mono text-sm shadow-sm focus:border-teal-500 focus:outline-none focus:ring-1 focus:ring-teal-500 dark:border-zinc-700 dark:bg-zinc-900"
+        >
+          <option value="">Loading&hellip;</option>
+        </select>
+      </label>
+      <label class="block">
+        <span class="block text-sm font-medium text-zinc-700 dark:text-zinc-300">Country</span>
+        <select
+          id="country-select"
+          class="mt-2 w-full rounded-md border border-zinc-300 bg-white px-3 py-2 font-mono text-sm shadow-sm focus:border-teal-500 focus:outline-none focus:ring-1 focus:ring-teal-500 disabled:opacity-50 dark:border-zinc-700 dark:bg-zinc-900"
+          disabled
+        >
+          <option value="">Pick a region first</option>
+        </select>
+      </label>
+    </form>
+
+    <div class="mt-8">
+      <div class="flex items-center justify-between">
+        <span class="text-xs font-semibold uppercase tracking-wider text-zinc-500 dark:text-zinc-500">Summary</span>
+        <a
+          id="endpoint-link"
+          href="#"
+          class="font-mono text-xs text-zinc-600 underline decoration-zinc-400 underline-offset-4 hover:text-teal-700 dark:text-zinc-400 dark:hover:text-teal-400"
+          target="_blank"
+          rel="noopener noreferrer"
+        ></a>
+      </div>
+      <div id="summary" class="mt-3 rounded-md border border-zinc-200 bg-zinc-50 p-4 text-sm dark:border-zinc-800 dark:bg-zinc-900">
+        Select a country above.
+      </div>
+    </div>
+
+    <div class="mt-6">
+      <span class="text-xs font-semibold uppercase tracking-wider text-zinc-500 dark:text-zinc-500">Raw JSON</span>
+      <pre
+        id="result"
+        class="mt-3 min-h-[200px] overflow-x-auto rounded-md border border-zinc-200 bg-zinc-50 p-4 text-xs dark:border-zinc-800 dark:bg-zinc-900"
+      ><code id="result-code" class="font-mono text-zinc-800 dark:text-zinc-200">Select a country above.</code></pre>
+    </div>
+  </section>
+
+  <script is:inline>
+    (async function () {
+      const regionSelect = document.getElementById('region-select');
+      const countrySelect = document.getElementById('country-select');
+      const resultCode = document.getElementById('result-code');
+      const endpointLink = document.getElementById('endpoint-link');
+      const summary = document.getElementById('summary');
+
+      // Fields that are the value-add over RestCountries (highlighted).
+      const PLUS_FIELDS = new Set([
+        'motto',
+        'motto_translation',
+        'motto_language',
+        'national_anthem_title',
+        'founding_date',
+        'former_capitals',
+        'former_names',
+      ]);
+
+      let byRegion = {};
+      let allRecords = [];
+
+      function setResult(text, endpoint) {
+        resultCode.textContent = text;
+        if (endpoint) {
+          endpointLink.textContent = endpoint;
+          endpointLink.href = endpoint;
+        } else {
+          endpointLink.textContent = '';
+          endpointLink.removeAttribute('href');
+        }
+      }
+
+      function row(label, value, isPlus) {
+        if (value === null || value === undefined || value === '' || (Array.isArray(value) && !value.length)) return '';
+        const display = Array.isArray(value) ? value.join(', ') : value;
+        const labelClass = isPlus
+          ? 'text-xs font-semibold uppercase tracking-wider text-teal-700 dark:text-teal-400'
+          : 'text-xs uppercase tracking-wider text-zinc-500';
+        const plusBadge = isPlus
+          ? ' <span class="ml-1 rounded bg-teal-100 px-1 py-0.5 font-mono text-[10px] text-teal-800 dark:bg-teal-900/40 dark:text-teal-300">+</span>'
+          : '';
+        return '<div><dt class="' + labelClass + '">' + label + plusBadge + '</dt><dd class="text-zinc-700 dark:text-zinc-300">' + display + '</dd></div>';
+      }
+
+      function renderSummary(d) {
+        summary.innerHTML =
+          '<div class="font-semibold text-base text-zinc-900 dark:text-zinc-100">' + d.name + ' <span class="ml-2 font-mono text-xs text-zinc-500">' + d.alpha2 + ' / ' + (d.alpha3 || '—') + ' / ' + (d.numeric || '—') + '</span></div>' +
+          '<dl class="mt-3 grid grid-cols-1 gap-x-6 gap-y-3 text-sm sm:grid-cols-2">' +
+          row('Region', d.continent || d.region, false) +
+          row('Currency', d.currency_name + (d.currency_symbol ? ' (' + d.currency_symbol + ')' : ''), false) +
+          row('Motto', d.motto, true) +
+          row('Motto translation', d.motto_translation, true) +
+          row('Motto language', d.motto_language, true) +
+          row('National anthem', d.national_anthem_title, true) +
+          row('Founding date', d.founding_date, true) +
+          row('Former capitals', d.former_capitals, true) +
+          row('Former names', d.former_names, true) +
+          '</dl>' +
+          '<p class="mt-4 text-xs text-zinc-500">Fields marked <span class="rounded bg-teal-100 px-1 py-0.5 font-mono text-[10px] text-teal-800 dark:bg-teal-900/40 dark:text-teal-300">+</span> are the value-add over <a href="https://restcountries.com" target="_blank" rel="noopener noreferrer" class="underline">RestCountries</a>.</p>';
+      }
+
+      async function loadAll() {
+        try {
+          const [allRes, regRes] = await Promise.all([fetch('/all.json'), fetch('/by-region.json')]);
+          if (!allRes.ok) throw new Error('all.json HTTP ' + allRes.status);
+          if (!regRes.ok) throw new Error('by-region.json HTTP ' + regRes.status);
+          allRecords = await allRes.json();
+          byRegion = await regRes.json();
+          const regions = Object.keys(byRegion).sort();
+          regionSelect.innerHTML =
+            '<option value="">Select a region&hellip;</option>' +
+            regions.map((r) => '<option value="' + r + '">' + r.charAt(0).toUpperCase() + r.slice(1) + ' (' + byRegion[r].length + ')</option>').join('');
+        } catch (err) {
+          regionSelect.innerHTML = '<option value="">Failed to load</option>';
+          setResult('Failed to load: ' + err.message);
+        }
+      }
+
+      function populateCountries(region) {
+        const list = byRegion[region] || [];
+        // Items may be plain alpha2 strings or {alpha2,name} objects depending on dataset shape.
+        const items = list.map((it) => {
+          if (typeof it === 'string') {
+            const rec = allRecords.find((r) => r.alpha2 === it);
+            return { alpha2: it, name: rec ? rec.name : it };
+          }
+          return it;
+        }).sort((a, b) => a.name.localeCompare(b.name));
+        countrySelect.innerHTML =
+          '<option value="">Select a country&hellip;</option>' +
+          items.map((it) => '<option value="' + it.alpha2 + '">' + it.alpha2 + ' &mdash; ' + it.name + '</option>').join('');
+        countrySelect.disabled = false;
+      }
+
+      async function loadCountry(alpha2) {
+        const endpoint = '/countries/' + alpha2 + '.json';
+        try {
+          const res = await fetch(endpoint);
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const data = await res.json();
+          renderSummary(data);
+          setResult(JSON.stringify(data, null, 2), endpoint);
+        } catch (err) {
+          setResult('Failed to load ' + endpoint + ': ' + err.message);
+        }
+      }
+
+      regionSelect.addEventListener('change', (e) => {
+        if (e.target.value) {
+          populateCountries(e.target.value);
+          summary.innerHTML = 'Select a country above.';
+          setResult('Select a country above.');
+        } else {
+          countrySelect.disabled = true;
+          countrySelect.innerHTML = '<option value="">Pick a region first</option>';
+        }
+      });
+
+      countrySelect.addEventListener('change', (e) => {
+        if (e.target.value) loadCountry(e.target.value);
+      });
+
+      await loadAll();
+    })();
+  </script>
+</Layout>

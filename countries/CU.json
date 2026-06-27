@@ -1,0 +1,16 @@
+{
+  "alpha2": "CU",
+  "alpha3": "CUB",
+  "numeric": "192",
+  "name": "Cuba",
+  "region": "americas",
+  "continent": "North America",
+  "national_anthem_title": "El Himno de Bayamo",
+  "founding_date": "1898-12-10",
+  "currency_name": "Cuban peso",
+  "motto_translation": "Fatherland or Death",
+  "currency_symbol": "₱",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "alpha2": "TZ",
+  "alpha3": "TZA",
+  "numeric": "834",
+  "name": "Tanzania",
+  "region": "africa",
+  "continent": "Africa",
+  "motto": "Freedom and Unity",
+  "national_anthem_title": "Mungu ibariki Afrika",
+  "founding_date": "1964-04-26",
+  "currency_name": "Tanzanian shilling",
+  "former_names": [
+    "Tanganyika + Zanzibar (until 1964 union)"
+  ],
+  "currency_symbol": "TSh",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "alpha2": "BE",
+  "alpha3": "BEL",
+  "numeric": "056",
+  "name": "Belgium",
+  "region": "europe",
+  "continent": "Europe",
+  "motto": "Unity makes strength",
+  "national_anthem_title": "The Brabançonne",
+  "founding_date": "1830-10-04",
+  "currency_name": "euro",
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

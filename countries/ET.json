@@ -1,0 +1,19 @@
+{
+  "alpha2": "ET",
+  "alpha3": "ETH",
+  "numeric": "231",
+  "name": "Ethiopia",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "March Forward, Dear Mother Ethiopia",
+  "founding_date": "1995-08-21",
+  "currency_name": "bir",
+  "former_names": [
+    "Abyssinia (historical)",
+    "Derg / PDRE (1974-1991)"
+  ],
+  "currency_symbol": "Br",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

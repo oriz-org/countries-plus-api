@@ -1,0 +1,14 @@
+{
+  "alpha2": "GA",
+  "alpha3": "GAB",
+  "numeric": "266",
+  "name": "Gabon",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "La Concorde",
+  "founding_date": "1960-01-01",
+  "currency_name": "Central African CFA franc",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

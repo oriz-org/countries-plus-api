@@ -1,0 +1,15 @@
+{
+  "alpha2": "MT",
+  "alpha3": "MLT",
+  "numeric": "470",
+  "name": "Malta",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "L-Innu Malti",
+  "founding_date": "1964-09-21",
+  "currency_name": "euro",
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

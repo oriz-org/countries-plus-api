@@ -1,0 +1,16 @@
+{
+  "alpha2": "LA",
+  "alpha3": "LAO",
+  "numeric": "418",
+  "name": "Laos",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Pheng Xat Lao",
+  "founding_date": "1949-01-01",
+  "currency_name": "Lao kip",
+  "motto_translation": "Peace, Independence, Democracy, Unity, Prosperity",
+  "currency_symbol": "₭",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

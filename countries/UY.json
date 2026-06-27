@@ -1,0 +1,17 @@
+{
+  "alpha2": "UY",
+  "alpha3": "URY",
+  "numeric": "858",
+  "name": "Uruguay",
+  "region": "americas",
+  "continent": "South America",
+  "motto": "Liberty or Death",
+  "national_anthem_title": "National Anthem of Uruguay",
+  "founding_date": "1825-08-25",
+  "currency_name": "Uruguayan peso",
+  "motto_translation": "Freedom or Death",
+  "currency_symbol": "$U",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "alpha2": "JO",
+  "alpha3": "JOR",
+  "numeric": "400",
+  "name": "Jordan",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "The Royal Anthem of Jordan",
+  "founding_date": "1946-01-01",
+  "currency_name": "Jordanian dinar",
+  "former_names": [
+    "Transjordan (until 1949)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

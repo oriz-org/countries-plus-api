@@ -1,0 +1,18 @@
+{
+  "alpha2": "TH",
+  "alpha3": "THA",
+  "numeric": "764",
+  "name": "Thailand",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Thai National Anthem",
+  "founding_date": "1768-12-28",
+  "currency_name": "baht",
+  "former_names": [
+    "Siam (until 1939, 1945-1949)"
+  ],
+  "currency_symbol": "฿",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

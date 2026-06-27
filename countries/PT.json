@@ -1,0 +1,15 @@
+{
+  "alpha2": "PT",
+  "alpha3": "PRT",
+  "numeric": "620",
+  "name": "Portugal",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "A Portuguesa",
+  "founding_date": "1179-05-30",
+  "currency_name": "euro",
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

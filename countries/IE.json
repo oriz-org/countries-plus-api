@@ -1,0 +1,15 @@
+{
+  "alpha2": "IE",
+  "alpha3": "IRL",
+  "numeric": "372",
+  "name": "Ireland",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Amhrán na bhFiann",
+  "founding_date": "1937-12-29",
+  "currency_name": "euro",
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

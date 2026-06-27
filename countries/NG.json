@@ -1,0 +1,18 @@
+{
+  "alpha2": "NG",
+  "alpha3": "NGA",
+  "numeric": "566",
+  "name": "Nigeria",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "Nigeria, We Hail Thee",
+  "founding_date": "1963-10-01",
+  "currency_name": "naira",
+  "former_capitals": [
+    "Lagos (until 1991)"
+  ],
+  "currency_symbol": "₦",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

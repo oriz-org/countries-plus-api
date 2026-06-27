@@ -1,0 +1,15 @@
+{
+  "alpha2": "DZ",
+  "alpha3": "DZA",
+  "numeric": "012",
+  "name": "Algeria",
+  "region": "africa",
+  "continent": "Africa",
+  "motto": "By the people and for the people",
+  "national_anthem_title": "Kassaman",
+  "founding_date": "1962-07-03",
+  "currency_name": "Algerian dinar",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

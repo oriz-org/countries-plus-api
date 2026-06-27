@@ -1,0 +1,16 @@
+{
+  "alpha2": "AL",
+  "alpha3": "ALB",
+  "numeric": "008",
+  "name": "Albania",
+  "region": "europe",
+  "continent": "Europe",
+  "motto": "You Albania, give me honour, give me the name Albanian",
+  "national_anthem_title": "Himni i Flamurit",
+  "founding_date": "1912-11-28",
+  "currency_name": "Albanian lek",
+  "motto_translation": "You, Albania, give me honor, give me the name Albanian",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

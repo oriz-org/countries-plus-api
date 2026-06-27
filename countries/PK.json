@@ -1,0 +1,21 @@
+{
+  "alpha2": "PK",
+  "alpha3": "PAK",
+  "numeric": "586",
+  "name": "Pakistan",
+  "region": "asia",
+  "continent": "Asia",
+  "motto": "Iman, Ittihad, Nazm",
+  "national_anthem_title": "Qaumi Taranah",
+  "founding_date": "1947-08-14",
+  "currency_name": "Pakistani rupee",
+  "motto_translation": "Faith, Unity, Discipline",
+  "former_capitals": [
+    "Karachi (1947-1959)",
+    "Rawalpindi (1959-1966, interim)"
+  ],
+  "currency_symbol": "₨",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

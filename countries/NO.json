@@ -1,0 +1,16 @@
+{
+  "alpha2": "NO",
+  "alpha3": "NOR",
+  "numeric": "578",
+  "name": "Norway",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Ja, vi elsker dette landet",
+  "founding_date": "1905-10-26",
+  "currency_name": "Norwegian krone",
+  "motto_translation": "All for Norway",
+  "currency_symbol": "kr",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

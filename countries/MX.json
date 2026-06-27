@@ -1,0 +1,15 @@
+{
+  "alpha2": "MX",
+  "alpha3": "MEX",
+  "numeric": "484",
+  "name": "Mexico",
+  "region": "americas",
+  "continent": "North America",
+  "national_anthem_title": "National Anthem of Mexico",
+  "founding_date": "1810-09-16",
+  "currency_name": "peso",
+  "currency_symbol": "$",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

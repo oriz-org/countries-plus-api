@@ -1,0 +1,19 @@
+{
+  "alpha2": "JP",
+  "alpha3": "JPN",
+  "numeric": "392",
+  "name": "Japan",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Kimigayo",
+  "founding_date": "1947-05-03",
+  "currency_name": "yen",
+  "former_capitals": [
+    "Kyoto (794-1868)",
+    "Nara (710-794)"
+  ],
+  "currency_symbol": "¥",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

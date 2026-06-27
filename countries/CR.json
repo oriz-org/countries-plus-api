@@ -1,0 +1,16 @@
+{
+  "alpha2": "CR",
+  "alpha3": "CRI",
+  "numeric": "188",
+  "name": "Costa Rica",
+  "region": "americas",
+  "continent": "North America",
+  "national_anthem_title": "Noble patria, tu hermosa bandera",
+  "founding_date": "1821-01-01",
+  "currency_name": "Costa Rican colón",
+  "motto_translation": "Long live work",
+  "currency_symbol": "₡",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

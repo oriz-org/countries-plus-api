@@ -1,0 +1,15 @@
+{
+  "alpha2": "CY",
+  "alpha3": "CYP",
+  "numeric": "196",
+  "name": "Cyprus",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Hymn to Liberty",
+  "founding_date": "1960-08-16",
+  "currency_name": "euro",
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

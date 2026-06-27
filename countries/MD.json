@@ -1,0 +1,17 @@
+{
+  "alpha2": "MD",
+  "alpha3": "MDA",
+  "numeric": "498",
+  "name": "Moldova",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Limba noastră",
+  "founding_date": "1991-08-27",
+  "currency_name": "Moldovan leu",
+  "former_names": [
+    "Moldavian SSR (Soviet Union)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

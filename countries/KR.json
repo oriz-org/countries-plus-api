@@ -1,0 +1,18 @@
+{
+  "alpha2": "KR",
+  "alpha3": "KOR",
+  "numeric": "410",
+  "name": "South Korea",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Aegukga",
+  "founding_date": "1948-08-15",
+  "currency_name": "won",
+  "former_capitals": [
+    "Busan (1950-1953, wartime)"
+  ],
+  "currency_symbol": "₩",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

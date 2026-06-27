@@ -1,0 +1,17 @@
+{
+  "alpha2": "ES",
+  "alpha3": "ESP",
+  "numeric": "724",
+  "name": "Spain",
+  "region": "europe",
+  "continent": "Europe",
+  "motto": "Plus ultra",
+  "national_anthem_title": "Marcha Real",
+  "founding_date": "1978-12-29",
+  "currency_name": "euro",
+  "motto_translation": "Further beyond",
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

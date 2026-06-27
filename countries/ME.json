@@ -1,0 +1,18 @@
+{
+  "alpha2": "ME",
+  "alpha3": "MNE",
+  "numeric": "499",
+  "name": "Montenegro",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Oj, svijetla majska zoro",
+  "founding_date": "2006-06-03",
+  "currency_name": "euro",
+  "former_names": [
+    "Serbia and Montenegro (2003-2006)"
+  ],
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

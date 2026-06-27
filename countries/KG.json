@@ -1,0 +1,17 @@
+{
+  "alpha2": "KG",
+  "alpha3": "KGZ",
+  "numeric": "417",
+  "name": "Kyrgyzstan",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "State Anthem of the Kyrgyz Republic",
+  "founding_date": "1991-01-01",
+  "currency_name": "Kyrgyz som",
+  "former_names": [
+    "Soviet Union (1936-1991)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

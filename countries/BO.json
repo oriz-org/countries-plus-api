@@ -1,0 +1,15 @@
+{
+  "alpha2": "BO",
+  "alpha3": "BOL",
+  "numeric": "068",
+  "name": "Bolivia",
+  "region": "americas",
+  "continent": "South America",
+  "national_anthem_title": "National Anthem of Bolivia",
+  "founding_date": "1825-01-01",
+  "currency_name": "boliviano",
+  "currency_symbol": "Bs.",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "alpha2": "MW",
+  "alpha3": "MWI",
+  "numeric": "454",
+  "name": "Malawi",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "Chiuta dangililani Malaŵi",
+  "founding_date": "1964-07-06",
+  "currency_name": "Malawian kwacha",
+  "motto_translation": "Unity and Freedom",
+  "former_names": [
+    "Nyasaland (until 1964)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "alpha2": "MA",
+  "alpha3": "MAR",
+  "numeric": "504",
+  "name": "Morocco",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "Cherifian Anthem",
+  "founding_date": "0789-01-01",
+  "currency_name": "Moroccan dirham",
+  "motto_translation": "God, Country, King",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "alpha2": "BA",
+  "alpha3": "BIH",
+  "numeric": "070",
+  "name": "Bosnia and Herzegovina",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "national anthem of Bosnia and Herzegovina",
+  "founding_date": "1992-03-01",
+  "currency_name": "convertible mark",
+  "former_names": [
+    "Yugoslavia (1918-1992)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "alpha2": "LK",
+  "alpha3": "LKA",
+  "numeric": "144",
+  "name": "Sri Lanka",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Sri Lanka Matha",
+  "founding_date": "1972-05-22",
+  "currency_name": "Sri Lankan rupee",
+  "former_capitals": [
+    "Colombo (executive capital still)"
+  ],
+  "former_names": [
+    "Ceylon (until 1972)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

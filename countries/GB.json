@@ -1,0 +1,16 @@
+{
+  "alpha2": "GB",
+  "alpha3": "GBR",
+  "numeric": "826",
+  "name": "United Kingdom",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "God Save the King",
+  "founding_date": "1801-01-01",
+  "currency_name": "pound sterling",
+  "motto_translation": "God and my right",
+  "currency_symbol": "£",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "alpha2": "NZ",
+  "alpha3": "NZL",
+  "numeric": "554",
+  "name": "New Zealand",
+  "region": "oceania",
+  "continent": "Oceania",
+  "national_anthem_title": "God Defend New Zealand",
+  "founding_date": "1986-12-13",
+  "currency_name": "New Zealand dollar",
+  "former_names": [
+    "Dominion of New Zealand (1907-1947)"
+  ],
+  "currency_symbol": "NZ$",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

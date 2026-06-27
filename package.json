@@ -1,0 +1,19 @@
+{
+  "name": "countries-plus-api-site",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/prebuild.cjs && astro dev",
+    "prebuild": "node scripts/prebuild.cjs",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "data": "node scripts/generate.cjs && node scripts/prebuild.cjs"
+  },
+  "dependencies": {
+    "astro": "^5.7.0",
+    "@tailwindcss/vite": "^4.1.0",
+    "tailwindcss": "^4.1.0"
+  }
+}

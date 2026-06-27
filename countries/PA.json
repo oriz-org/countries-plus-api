@@ -1,0 +1,15 @@
+{
+  "alpha2": "PA",
+  "alpha3": "PAN",
+  "numeric": "591",
+  "name": "Panama",
+  "region": "americas",
+  "continent": "North America",
+  "national_anthem_title": "National anthem of Panama",
+  "founding_date": "1903-01-01",
+  "currency_name": "United States dollar",
+  "motto_translation": "For the benefit of the world",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

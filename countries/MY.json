@@ -1,0 +1,19 @@
+{
+  "alpha2": "MY",
+  "alpha3": "MYS",
+  "numeric": "458",
+  "name": "Malaysia",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Negaraku",
+  "founding_date": "1963-09-16",
+  "currency_name": "Malaysian ringgit",
+  "motto_translation": "Unity is Strength",
+  "former_names": [
+    "Federation of Malaya (1948-1963)"
+  ],
+  "currency_symbol": "RM",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

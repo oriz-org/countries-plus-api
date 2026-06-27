@@ -1,0 +1,20 @@
+{
+  "alpha2": "UZ",
+  "alpha3": "UZB",
+  "numeric": "860",
+  "name": "Uzbekistan",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "National Anthem of Uzbekistan",
+  "founding_date": "1991-01-01",
+  "currency_name": "Uzbek som",
+  "former_capitals": [
+    "Samarkand (1925-1930)"
+  ],
+  "former_names": [
+    "Soviet Union (1924-1991)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

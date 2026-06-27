@@ -1,0 +1,19 @@
+{
+  "alpha2": "RS",
+  "alpha3": "SRB",
+  "numeric": "688",
+  "name": "Serbia",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Bože pravde",
+  "founding_date": "2006-01-01",
+  "currency_name": "Serbian dinar",
+  "motto_translation": "Only Unity Saves the Serbs",
+  "former_names": [
+    "Yugoslavia (1918-2003)",
+    "Serbia and Montenegro (2003-2006)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

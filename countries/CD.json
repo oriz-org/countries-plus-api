@@ -1,0 +1,19 @@
+{
+  "alpha2": "CD",
+  "alpha3": "COD",
+  "numeric": "180",
+  "name": "Democratic Republic of the Congo",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "Debout Congolais",
+  "founding_date": "1960-06-30",
+  "currency_name": "Congolese franc",
+  "motto_translation": "Justice, Peace, Work",
+  "former_names": [
+    "Zaire (1971-1997)",
+    "Belgian Congo (until 1960)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

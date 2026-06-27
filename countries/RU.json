@@ -1,0 +1,22 @@
+{
+  "alpha2": "RU",
+  "alpha3": "RUS",
+  "numeric": "643",
+  "name": "Russia",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "State Anthem of the Russian Federation",
+  "founding_date": "1263-01-01",
+  "currency_name": "Russian ruble",
+  "former_capitals": [
+    "Saint Petersburg (1712-1918)"
+  ],
+  "former_names": [
+    "Soviet Union (1922-1991)",
+    "Russian Empire (until 1917)"
+  ],
+  "currency_symbol": "₽",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "alpha2": "HT",
+  "alpha3": "HTI",
+  "numeric": "332",
+  "name": "Haiti",
+  "region": "americas",
+  "continent": "North America",
+  "motto": "Liberté, égalité, fraternité",
+  "national_anthem_title": "La Dessalinienne",
+  "founding_date": "1804-01-01",
+  "currency_name": "gourde",
+  "motto_translation": "Unity makes strength",
+  "currency_symbol": "G",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

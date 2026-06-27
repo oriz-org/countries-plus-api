@@ -1,0 +1,16 @@
+{
+  "alpha2": "CO",
+  "alpha3": "COL",
+  "numeric": "170",
+  "name": "Colombia",
+  "region": "americas",
+  "continent": "South America",
+  "national_anthem_title": "National Anthem of Colombia",
+  "founding_date": "1810-01-01",
+  "currency_name": "Colombian peso",
+  "motto_translation": "Freedom and Order",
+  "currency_symbol": "$",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

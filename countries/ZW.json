@@ -1,0 +1,18 @@
+{
+  "alpha2": "ZW",
+  "alpha3": "ZWE",
+  "numeric": "716",
+  "name": "Zimbabwe",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "National Anthem of Zimbabwe",
+  "founding_date": "1980-04-18",
+  "currency_name": "Zimbabwean dollar",
+  "former_names": [
+    "Rhodesia (until 1980)",
+    "Southern Rhodesia (until 1965)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

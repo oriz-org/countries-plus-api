@@ -1,0 +1,17 @@
+{
+  "alpha2": "KE",
+  "alpha3": "KEN",
+  "numeric": "404",
+  "name": "Kenya",
+  "region": "africa",
+  "continent": "Africa",
+  "motto": "Harambee",
+  "national_anthem_title": "Ee Mungu Nguvu Yetu",
+  "founding_date": "1963-01-01",
+  "currency_name": "Kenyan shilling",
+  "motto_translation": "Let us all pull together",
+  "currency_symbol": "KSh",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

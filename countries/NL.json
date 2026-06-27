@@ -1,0 +1,16 @@
+{
+  "alpha2": "NL",
+  "alpha3": "NLD",
+  "numeric": "528",
+  "name": "Kingdom of the Netherlands",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Wilhelmus",
+  "founding_date": "1815-03-16",
+  "currency_name": "United States dollar",
+  "motto_translation": "I will maintain",
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

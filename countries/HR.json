@@ -1,0 +1,18 @@
+{
+  "alpha2": "HR",
+  "alpha3": "HRV",
+  "numeric": "191",
+  "name": "Croatia",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Lijepa naša domovino",
+  "founding_date": "1991-06-25",
+  "currency_name": "euro",
+  "former_names": [
+    "Yugoslavia (1918-1991)"
+  ],
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

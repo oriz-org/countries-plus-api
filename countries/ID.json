@@ -1,0 +1,20 @@
+{
+  "alpha2": "ID",
+  "alpha3": "IDN",
+  "numeric": "360",
+  "name": "Indonesia",
+  "region": "asia",
+  "continent": "Asia",
+  "motto": "Bhinneka Tunggal Ika",
+  "national_anthem_title": "Indonesia Raya",
+  "founding_date": "1945-08-17",
+  "currency_name": "rupiah",
+  "motto_translation": "Unity in Diversity",
+  "former_names": [
+    "Dutch East Indies (until 1945)"
+  ],
+  "currency_symbol": "Rp",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "alpha2": "FI",
+  "alpha3": "FIN",
+  "numeric": "246",
+  "name": "Finland",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Maamme",
+  "founding_date": "1917-12-06",
+  "currency_name": "euro",
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

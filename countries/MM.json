@@ -1,0 +1,21 @@
+{
+  "alpha2": "MM",
+  "alpha3": "MMR",
+  "numeric": "104",
+  "name": "Myanmar",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Kaba Ma Kyei",
+  "founding_date": "1948-01-04",
+  "currency_name": "kyat",
+  "former_capitals": [
+    "Yangon / Rangoon (until 2006)"
+  ],
+  "former_names": [
+    "Burma (until 1989)"
+  ],
+  "currency_symbol": "K",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

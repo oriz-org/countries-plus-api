@@ -1,0 +1,17 @@
+{
+  "alpha2": "AR",
+  "alpha3": "ARG",
+  "numeric": "032",
+  "name": "Argentina",
+  "region": "americas",
+  "continent": "South America",
+  "motto": "En unión y libertad",
+  "national_anthem_title": "Argentine National Anthem",
+  "founding_date": "1816-07-09",
+  "currency_name": "Argentine convertible peso",
+  "motto_translation": "In Union and Liberty",
+  "currency_symbol": "$",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

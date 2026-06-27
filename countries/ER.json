@@ -1,0 +1,17 @@
+{
+  "alpha2": "ER",
+  "alpha3": "ERI",
+  "numeric": "232",
+  "name": "Eritrea",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "Ertra, Ertra, Ertra",
+  "founding_date": "1993-05-24",
+  "currency_name": "nakfa",
+  "former_names": [
+    "Part of Ethiopia (until 1993)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

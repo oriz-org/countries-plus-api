@@ -1,0 +1,17 @@
+{
+  "alpha2": "AM",
+  "alpha3": "ARM",
+  "numeric": "051",
+  "name": "Armenia",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Mer Hayrenik",
+  "founding_date": "1991-09-23",
+  "currency_name": "Armenian dram",
+  "former_names": [
+    "Soviet Union (1922-1991)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

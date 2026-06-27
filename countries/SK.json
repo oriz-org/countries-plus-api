@@ -1,0 +1,18 @@
+{
+  "alpha2": "SK",
+  "alpha3": "SVK",
+  "numeric": "703",
+  "name": "Slovakia",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Nad Tatrou sa blýska",
+  "founding_date": "1993-01-01",
+  "currency_name": "euro",
+  "former_names": [
+    "Czechoslovakia (1918-1992)"
+  ],
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "alpha2": "BW",
+  "alpha3": "BWA",
+  "numeric": "072",
+  "name": "Botswana",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "Fatshe leno la rona",
+  "founding_date": "1966-09-30",
+  "currency_name": "Botswana pula",
+  "motto_translation": "Rain",
+  "former_names": [
+    "Bechuanaland Protectorate (until 1966)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

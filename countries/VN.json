@@ -1,0 +1,23 @@
+{
+  "alpha2": "VN",
+  "alpha3": "VNM",
+  "numeric": "704",
+  "name": "Vietnam",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Tiến Quân Ca",
+  "founding_date": "1976-07-02",
+  "currency_name": "Vietnamese đồng",
+  "motto_translation": "Independence, Freedom, Happiness",
+  "former_capitals": [
+    "Saigon (South Vietnam capital, until 1975)"
+  ],
+  "former_names": [
+    "Republic of Vietnam (South, until 1975)",
+    "Democratic Republic of Vietnam (North, until 1976)"
+  ],
+  "currency_symbol": "₫",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

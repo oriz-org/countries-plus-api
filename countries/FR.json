@@ -1,0 +1,17 @@
+{
+  "alpha2": "FR",
+  "alpha3": "FRA",
+  "numeric": "250",
+  "name": "France",
+  "region": "europe",
+  "continent": "Europe",
+  "motto": "Liberté, égalité, fraternité",
+  "national_anthem_title": "La Marseillaise",
+  "founding_date": "1804-05-18",
+  "currency_name": "CFP Franc",
+  "motto_translation": "Liberty, Equality, Fraternity",
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

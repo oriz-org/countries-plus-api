@@ -1,0 +1,18 @@
+{
+  "alpha2": "AU",
+  "alpha3": "AUS",
+  "numeric": "036",
+  "name": "Australia",
+  "region": "oceania",
+  "continent": "Oceania",
+  "national_anthem_title": "Advance Australia Fair",
+  "founding_date": "1901-01-01",
+  "currency_name": "Australian dollar",
+  "former_capitals": [
+    "Melbourne (1901-1927, provisional)"
+  ],
+  "currency_symbol": "A$",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

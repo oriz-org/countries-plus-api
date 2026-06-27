@@ -1,0 +1,13 @@
+{
+  "alpha2": "SM",
+  "alpha3": "SMR",
+  "numeric": "674",
+  "name": "San Marino",
+  "region": "europe",
+  "continent": "Europe",
+  "founding_date": "0301-09-04",
+  "currency_name": "euro",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

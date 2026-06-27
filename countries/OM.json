@@ -1,0 +1,14 @@
+{
+  "alpha2": "OM",
+  "alpha3": "OMN",
+  "numeric": "512",
+  "name": "Oman",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Nashid as-Salaam as-Sultani",
+  "founding_date": "1970-07-23",
+  "currency_name": "Omani rial",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

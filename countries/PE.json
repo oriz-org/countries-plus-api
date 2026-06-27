@@ -1,0 +1,16 @@
+{
+  "alpha2": "PE",
+  "alpha3": "PER",
+  "numeric": "604",
+  "name": "Peru",
+  "region": "americas",
+  "continent": "South America",
+  "national_anthem_title": "National Anthem of Peru",
+  "founding_date": "1821-07-28",
+  "currency_name": "Nuevo sol",
+  "motto_translation": "Firm and Happy for the Union",
+  "currency_symbol": "S/",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

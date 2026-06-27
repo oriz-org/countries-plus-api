@@ -1,0 +1,14 @@
+{
+  "alpha2": "VA",
+  "alpha3": "VAT",
+  "numeric": "336",
+  "name": "Vatican City",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Inno e Marcia Pontificale",
+  "founding_date": "1929-02-11",
+  "currency_name": "euro",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

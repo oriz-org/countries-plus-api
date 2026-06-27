@@ -1,0 +1,15 @@
+{
+  "alpha2": "CM",
+  "alpha3": "CMR",
+  "numeric": "120",
+  "name": "Cameroon",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "O Cameroon, Cradle of Our Forefathers",
+  "founding_date": "1960-01-01",
+  "currency_name": "Central African CFA franc",
+  "motto_translation": "Peace, Work, Fatherland",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

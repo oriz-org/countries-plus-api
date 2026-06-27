@@ -1,0 +1,16 @@
+{
+  "alpha2": "SE",
+  "alpha3": "SWE",
+  "numeric": "752",
+  "name": "Sweden",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Du gamla, du fria",
+  "founding_date": "0900-01-01",
+  "currency_name": "Swedish krona",
+  "motto_translation": "For Sweden, With the Times",
+  "currency_symbol": "kr",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

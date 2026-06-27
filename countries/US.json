@@ -1,0 +1,20 @@
+{
+  "alpha2": "US",
+  "alpha3": "USA",
+  "numeric": "840",
+  "name": "United States",
+  "region": "americas",
+  "continent": "North America",
+  "motto": "In God We Trust",
+  "national_anthem_title": "The Star-Spangled Banner",
+  "founding_date": "1784-05-12",
+  "currency_name": "United States dollar",
+  "former_capitals": [
+    "Philadelphia (1790-1800)",
+    "New York City (1785-1790)"
+  ],
+  "currency_symbol": "$",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

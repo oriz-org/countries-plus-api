@@ -1,0 +1,21 @@
+{
+  "alpha2": "LT",
+  "alpha3": "LTU",
+  "numeric": "440",
+  "name": "Lithuania",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Tautiška giesmė",
+  "founding_date": "1990-03-11",
+  "currency_name": "euro",
+  "former_capitals": [
+    "Kaunas (1920-1939)"
+  ],
+  "former_names": [
+    "Soviet Union (1940-1990)"
+  ],
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

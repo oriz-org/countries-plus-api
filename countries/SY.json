@@ -1,0 +1,18 @@
+{
+  "alpha2": "SY",
+  "alpha3": "SYR",
+  "numeric": "760",
+  "name": "Syria",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Humat ad-Diyar",
+  "founding_date": "1920-03-08",
+  "currency_name": "Syrian pound",
+  "former_names": [
+    "United Arab Republic (1958-1961, with Egypt)"
+  ],
+  "currency_symbol": "£",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

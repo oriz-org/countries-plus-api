@@ -1,0 +1,15 @@
+{
+  "alpha2": "SV",
+  "alpha3": "SLV",
+  "numeric": "222",
+  "name": "El Salvador",
+  "region": "americas",
+  "continent": "North America",
+  "national_anthem_title": "National anthem of El Salvador",
+  "founding_date": "1841-02-02",
+  "currency_name": "Bitcoin",
+  "motto_translation": "God, Union, Liberty",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

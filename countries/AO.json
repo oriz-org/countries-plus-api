@@ -1,0 +1,16 @@
+{
+  "alpha2": "AO",
+  "alpha3": "AGO",
+  "numeric": "024",
+  "name": "Angola",
+  "region": "africa",
+  "continent": "Africa",
+  "motto": "Virtus Unita Fortior",
+  "national_anthem_title": "Angola Avante",
+  "founding_date": "1992-08-25",
+  "currency_name": "kwanza",
+  "currency_symbol": "Kz",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

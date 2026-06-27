@@ -1,0 +1,15 @@
+{
+  "alpha2": "BI",
+  "alpha3": "BDI",
+  "numeric": "108",
+  "name": "Burundi",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "Burundi Bwacu",
+  "founding_date": "1962-07-01",
+  "currency_name": "Burundian franc",
+  "motto_translation": "Unity, Work, Progress",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

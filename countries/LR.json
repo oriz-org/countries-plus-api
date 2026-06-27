@@ -1,0 +1,14 @@
+{
+  "alpha2": "LR",
+  "alpha3": "LBR",
+  "numeric": "430",
+  "name": "Liberia",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "All Hail, Liberia, Hail!",
+  "founding_date": "1822-01-07",
+  "currency_name": "Liberian dollar",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

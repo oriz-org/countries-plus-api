@@ -1,0 +1,17 @@
+{
+  "alpha2": "CH",
+  "alpha3": "CHE",
+  "numeric": "756",
+  "name": "Switzerland",
+  "region": "europe",
+  "continent": "Europe",
+  "motto": "Unus pro omnibus, omnes pro uno",
+  "national_anthem_title": "Swiss Psalm",
+  "founding_date": "1848-09-12",
+  "currency_name": "Swiss franc",
+  "motto_translation": "One for all, all for one",
+  "currency_symbol": "CHF",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

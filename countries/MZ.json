@@ -1,0 +1,15 @@
+{
+  "alpha2": "MZ",
+  "alpha3": "MOZ",
+  "numeric": "508",
+  "name": "Mozambique",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "Pátria Amada",
+  "founding_date": "1975-06-25",
+  "currency_name": "Mozambican metical",
+  "currency_symbol": "MT",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

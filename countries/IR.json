@@ -1,0 +1,21 @@
+{
+  "alpha2": "IR",
+  "alpha3": "IRN",
+  "numeric": "364",
+  "name": "Iran",
+  "region": "asia",
+  "continent": "Asia",
+  "motto": "Takbir",
+  "national_anthem_title": "National Anthem of the Islamic Republic of Iran",
+  "founding_date": "1979-04-01",
+  "currency_name": "Iranian rial",
+  "motto_translation": "Independence, Freedom, Islamic Republic",
+  "former_names": [
+    "Persia (officially until 1935)",
+    "Imperial State of Iran (until 1979)"
+  ],
+  "currency_symbol": "﷼",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

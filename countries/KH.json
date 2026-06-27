@@ -1,0 +1,19 @@
+{
+  "alpha2": "KH",
+  "alpha3": "KHM",
+  "numeric": "116",
+  "name": "Cambodia",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Nokor Reach",
+  "founding_date": "1953-11-09",
+  "currency_name": "riel",
+  "motto_translation": "Nation, Religion, King",
+  "former_names": [
+    "Kampuchea (1975-1989)"
+  ],
+  "currency_symbol": "៛",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "alpha2": "TW",
+  "alpha3": "TWN",
+  "numeric": "158",
+  "name": "Taiwan",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "National Anthem of the Republic of China",
+  "founding_date": "1912-01-01",
+  "currency_name": "New Taiwan dollar",
+  "former_names": [
+    "Republic of China (since 1912; effective territory Taiwan since 1949)",
+    "Formosa (historical)"
+  ],
+  "currency_symbol": "NT$",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

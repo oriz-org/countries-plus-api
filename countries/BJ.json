@@ -1,0 +1,14 @@
+{
+  "alpha2": "BJ",
+  "alpha3": "BEN",
+  "numeric": "204",
+  "name": "Benin",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "L'Aube Nouvelle",
+  "founding_date": "1960-08-01",
+  "currency_name": "West African CFA franc",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

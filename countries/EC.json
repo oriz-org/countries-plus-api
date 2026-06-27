@@ -1,0 +1,15 @@
+{
+  "alpha2": "EC",
+  "alpha3": "ECU",
+  "numeric": "218",
+  "name": "Ecuador",
+  "region": "americas",
+  "continent": "South America",
+  "national_anthem_title": "Salve, Oh Patria",
+  "founding_date": "1840-02-16",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

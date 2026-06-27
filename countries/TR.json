@@ -1,0 +1,22 @@
+{
+  "alpha2": "TR",
+  "alpha3": "TUR",
+  "numeric": "792",
+  "name": "Turkey",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "İstiklâl Marşı",
+  "founding_date": "1923-10-29",
+  "currency_name": "Turkish lira",
+  "motto_translation": "Peace at Home, Peace in the World",
+  "former_capitals": [
+    "Istanbul / Constantinople (until 1923)"
+  ],
+  "former_names": [
+    "Ottoman Empire (until 1922)"
+  ],
+  "currency_symbol": "₺",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

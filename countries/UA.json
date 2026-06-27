@@ -1,0 +1,21 @@
+{
+  "alpha2": "UA",
+  "alpha3": "UKR",
+  "numeric": "804",
+  "name": "Ukraine",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Shche ne vmerla Ukrainy i slava, i volia",
+  "founding_date": "1991-08-24",
+  "currency_name": "hryvnia",
+  "former_capitals": [
+    "Kharkiv (1919-1934)"
+  ],
+  "former_names": [
+    "Ukrainian SSR (Soviet Union)"
+  ],
+  "currency_symbol": "₴",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

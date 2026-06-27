@@ -1,0 +1,17 @@
+{
+  "alpha2": "BY",
+  "alpha3": "BLR",
+  "numeric": "112",
+  "name": "Belarus",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "My Belarusy",
+  "founding_date": "1991-09-19",
+  "currency_name": "Belarusian ruble",
+  "former_names": [
+    "Byelorussian SSR (Soviet Union)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

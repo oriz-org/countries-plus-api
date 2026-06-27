@@ -1,0 +1,18 @@
+{
+  "alpha2": "WS",
+  "alpha3": "WSM",
+  "numeric": "882",
+  "name": "Samoa",
+  "region": "oceania",
+  "continent": "Oceania",
+  "national_anthem_title": "The Banner of Freedom",
+  "founding_date": "1962-01-01",
+  "currency_name": "Samoan tālā",
+  "motto_translation": "God is the foundation of Samoa",
+  "former_names": [
+    "Western Samoa (until 1997)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

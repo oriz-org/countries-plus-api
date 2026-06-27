@@ -1,0 +1,20 @@
+{
+  "alpha2": "BR",
+  "alpha3": "BRA",
+  "numeric": "076",
+  "name": "Brazil",
+  "region": "americas",
+  "continent": "South America",
+  "motto": "Order and Progress",
+  "national_anthem_title": "Brazilian National Anthem",
+  "founding_date": "1822-09-07",
+  "currency_name": "Brazilian real",
+  "former_capitals": [
+    "Rio de Janeiro (1763-1960)",
+    "Salvador (1549-1763)"
+  ],
+  "currency_symbol": "R$",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

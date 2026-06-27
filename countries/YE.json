@@ -1,0 +1,18 @@
+{
+  "alpha2": "YE",
+  "alpha3": "YEM",
+  "numeric": "887",
+  "name": "Yemen",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "National anthem of Yemen",
+  "founding_date": "1990-05-22",
+  "currency_name": "Yemeni Rial",
+  "former_names": [
+    "North Yemen + South Yemen (until 1990 unification)"
+  ],
+  "currency_symbol": "﷼",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

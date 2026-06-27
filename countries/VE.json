@@ -1,0 +1,15 @@
+{
+  "alpha2": "VE",
+  "alpha3": "VEN",
+  "numeric": "862",
+  "name": "Venezuela",
+  "region": "americas",
+  "continent": "South America",
+  "national_anthem_title": "gloria al bravo pueblo",
+  "founding_date": "1845-03-30",
+  "currency_name": "sovereign bolivar",
+  "currency_symbol": "Bs.",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

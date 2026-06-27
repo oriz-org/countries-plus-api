@@ -1,0 +1,17 @@
+{
+  "alpha2": "AZ",
+  "alpha3": "AZE",
+  "numeric": "031",
+  "name": "Azerbaijan",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Azərbaycan marşı",
+  "founding_date": "1991-01-01",
+  "currency_name": "Azerbaijani manat",
+  "former_names": [
+    "Soviet Union (1920-1991)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "alpha2": "KP",
+  "alpha3": "PRK",
+  "numeric": "408",
+  "name": "North Korea",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Aegukka",
+  "founding_date": "1948-09-09",
+  "currency_name": "North Korean won",
+  "motto_translation": "Prosperous and Powerful Country",
+  "currency_symbol": "₩",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

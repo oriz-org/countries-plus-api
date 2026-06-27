@@ -1,0 +1,16 @@
+{
+  "alpha2": "CL",
+  "alpha3": "CHL",
+  "numeric": "152",
+  "name": "Chile",
+  "region": "americas",
+  "continent": "South America",
+  "national_anthem_title": "National Anthem of Chile",
+  "founding_date": "1810-09-18",
+  "currency_name": "Chilean peso",
+  "motto_translation": "By reason or by force",
+  "currency_symbol": "$",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

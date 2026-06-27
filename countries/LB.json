@@ -1,0 +1,15 @@
+{
+  "alpha2": "LB",
+  "alpha3": "LBN",
+  "numeric": "422",
+  "name": "Lebanon",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Lebanese national anthem",
+  "founding_date": "1943-11-22",
+  "currency_name": "Lebanese pound",
+  "currency_symbol": "£",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

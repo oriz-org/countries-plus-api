@@ -1,0 +1,16 @@
+{
+  "alpha2": "DK",
+  "alpha3": "DNK",
+  "numeric": "208",
+  "name": "Denmark",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Kong Christian stod ved højen mast",
+  "founding_date": "0800-01-01",
+  "currency_name": "Danish krone",
+  "motto_translation": "Gods help, the love of the people, Denmarks strength",
+  "currency_symbol": "kr",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

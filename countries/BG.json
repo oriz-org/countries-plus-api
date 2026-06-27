@@ -1,0 +1,16 @@
+{
+  "alpha2": "BG",
+  "alpha3": "BGR",
+  "numeric": "100",
+  "name": "Bulgaria",
+  "region": "europe",
+  "continent": "Europe",
+  "motto": "Unity makes strength",
+  "national_anthem_title": "Mila Rodino",
+  "founding_date": "1878-07-13",
+  "currency_name": "euro",
+  "currency_symbol": "лв",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

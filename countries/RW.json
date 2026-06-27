@@ -1,0 +1,15 @@
+{
+  "alpha2": "RW",
+  "alpha3": "RWA",
+  "numeric": "646",
+  "name": "Rwanda",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "Rwanda Nziza",
+  "founding_date": "1962-01-01",
+  "currency_name": "Rwandan franc",
+  "motto_translation": "Unity, Work, Patriotism",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

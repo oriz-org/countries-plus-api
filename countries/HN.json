@@ -1,0 +1,16 @@
+{
+  "alpha2": "HN",
+  "alpha3": "HND",
+  "numeric": "340",
+  "name": "Honduras",
+  "region": "americas",
+  "continent": "North America",
+  "national_anthem_title": "National Anthem of Honduras",
+  "founding_date": "1821-01-01",
+  "currency_name": "Honduran lempira",
+  "motto_translation": "Free, sovereign, independent",
+  "currency_symbol": "L",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

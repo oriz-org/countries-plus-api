@@ -1,0 +1,18 @@
+{
+  "alpha2": "EE",
+  "alpha3": "EST",
+  "numeric": "233",
+  "name": "Estonia",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Mu isamaa, mu õnn ja rõõm",
+  "founding_date": "1918-02-24",
+  "currency_name": "euro",
+  "former_names": [
+    "Soviet Union (1940-1991)"
+  ],
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

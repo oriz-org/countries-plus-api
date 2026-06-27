@@ -1,0 +1,20 @@
+{
+  "alpha2": "KZ",
+  "alpha3": "KAZ",
+  "numeric": "398",
+  "name": "Kazakhstan",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Menıñ Qazaqstanym",
+  "founding_date": "1991-01-01",
+  "currency_name": "Kazakhstani tenge",
+  "former_capitals": [
+    "Almaty (1929-1997)"
+  ],
+  "former_names": [
+    "Soviet Union (1936-1991)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

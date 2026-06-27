@@ -1,0 +1,17 @@
+{
+  "alpha2": "AE",
+  "alpha3": "ARE",
+  "numeric": "784",
+  "name": "United Arab Emirates",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Ishy Bilady",
+  "founding_date": "1971-01-01",
+  "currency_name": "United Arab Emirates dirham",
+  "former_names": [
+    "Trucial States (until 1971)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

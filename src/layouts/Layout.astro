@@ -1,0 +1,83 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+  path?: string;
+}
+
+const {
+  title = 'Countries+ API',
+  description = 'Free static API of extended country data (motto, anthem, founding date, former names, former capitals) for 203 countries. A supplement to RestCountries.',
+  path = '/',
+} = Astro.props;
+
+const nav = [
+  { href: '/', label: 'Home' },
+  { href: '/docs', label: 'Docs' },
+  { href: '/explorer', label: 'Explorer' },
+  { href: 'https://github.com/oriz-org/countries-plus-api', label: 'GitHub', external: true },
+];
+---
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="theme-color" content="#0d9488" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#1a1a1a" media="(prefers-color-scheme: dark)" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={`https://countries-plus.oriz.in${path}`} />
+  </head>
+  <body class="min-h-screen bg-white text-zinc-900 antialiased dark:bg-zinc-950 dark:text-zinc-100">
+    <header class="border-b border-zinc-200 dark:border-zinc-800">
+      <nav class="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
+        <a href="/" class="flex items-baseline gap-2 font-mono text-sm font-semibold tracking-tight">
+          <span class="text-teal-600 dark:text-teal-400">countries-plus</span>
+          <span class="text-zinc-400 dark:text-zinc-600">.oriz.in</span>
+        </a>
+        <ul class="flex items-center gap-6 text-sm">
+          {nav.slice(1).map((item) => (
+            <li>
+              <a
+                href={item.href}
+                class={`text-zinc-600 transition-colors hover:text-teal-600 dark:text-zinc-400 dark:hover:text-teal-400 ${
+                  path === item.href ? 'text-zinc-900 dark:text-zinc-100' : ''
+                }`}
+                target={item.external ? '_blank' : undefined}
+                rel={item.external ? 'noopener noreferrer' : undefined}
+              >{item.label}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="mt-24 border-t border-zinc-200 dark:border-zinc-800">
+      <div class="mx-auto max-w-5xl px-6 py-10 text-sm text-zinc-500 dark:text-zinc-500">
+        <div class="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+          <p>
+            Built by <a href="https://oriz.in" class="underline decoration-teal-500 underline-offset-4 hover:text-teal-600 dark:hover:text-teal-400">oriz.in</a>
+            &middot; Code MIT &middot; Data CC BY-SA 4.0 (Wikipedia / Wikidata)
+            &middot; Supplements <a href="https://restcountries.com" class="underline decoration-teal-500 underline-offset-4 hover:text-teal-600 dark:hover:text-teal-400" target="_blank" rel="noopener noreferrer">RestCountries</a>
+          </p>
+          <div class="flex items-center gap-4">
+            <a href="https://github.com/oriz-org/countries-plus-api" class="hover:text-teal-600 dark:hover:text-teal-400" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://www.buymeacoffee.com/oriz" class="hover:text-teal-600 dark:hover:text-teal-400" target="_blank" rel="noopener noreferrer">Buy me a coffee</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

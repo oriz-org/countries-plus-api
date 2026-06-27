@@ -1,0 +1,19 @@
+{
+  "alpha2": "BD",
+  "alpha3": "BGD",
+  "numeric": "050",
+  "name": "Bangladesh",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "Amar Sonar Bangla",
+  "founding_date": "1971-03-26",
+  "currency_name": "Bangladeshi taka",
+  "former_names": [
+    "East Pakistan (1947-1971)",
+    "East Bengal (part of British India)"
+  ],
+  "currency_symbol": "৳",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

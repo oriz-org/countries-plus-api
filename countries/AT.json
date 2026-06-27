@@ -1,0 +1,15 @@
+{
+  "alpha2": "AT",
+  "alpha3": "AUT",
+  "numeric": "040",
+  "name": "Austria",
+  "region": "europe",
+  "continent": "Europe",
+  "national_anthem_title": "Land der Berge, Land am Strome",
+  "founding_date": "1918-11-12",
+  "currency_name": "euro",
+  "currency_symbol": "€",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

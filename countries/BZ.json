@@ -1,0 +1,18 @@
+{
+  "alpha2": "BZ",
+  "alpha3": "BLZ",
+  "numeric": "084",
+  "name": "Belize",
+  "region": "americas",
+  "continent": "North America",
+  "national_anthem_title": "Land of the Free",
+  "founding_date": "1981-09-21",
+  "currency_name": "Belize dollar",
+  "motto_translation": "I flourish in the shade",
+  "former_names": [
+    "British Honduras (until 1973)"
+  ],
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

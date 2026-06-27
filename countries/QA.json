@@ -1,0 +1,14 @@
+{
+  "alpha2": "QA",
+  "alpha3": "QAT",
+  "numeric": "634",
+  "name": "Qatar",
+  "region": "asia",
+  "continent": "Asia",
+  "national_anthem_title": "As Salam al Amiri",
+  "founding_date": "1870-01-01",
+  "currency_name": "Qatari riyal",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}

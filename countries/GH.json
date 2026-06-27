@@ -1,0 +1,18 @@
+{
+  "alpha2": "GH",
+  "alpha3": "GHA",
+  "numeric": "288",
+  "name": "Ghana",
+  "region": "africa",
+  "continent": "Africa",
+  "national_anthem_title": "God Bless Our Homeland Ghana",
+  "founding_date": "1957-01-01",
+  "currency_name": "Ghana cedi",
+  "former_names": [
+    "Gold Coast (until 1957)"
+  ],
+  "currency_symbol": "₵",
+  "sources": [
+    "Wikidata / en.wikipedia (CC BY-SA 4.0)"
+  ]
+}
