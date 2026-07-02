@@ -1,0 +1,6 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  ci:
+    uses: chirag127/workflows/.github/workflows/ci-astro-api.yml@main
+    secrets: inherit
